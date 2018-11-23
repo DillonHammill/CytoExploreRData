@@ -17,5 +17,5 @@ and/or DataPackageR::load_all
 _datasets() to load them.
 }
 \seealso{
-\link{Compensation}
+\link{Activation}
 }

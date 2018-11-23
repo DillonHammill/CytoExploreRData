@@ -9,8 +9,9 @@
 #'     and/or DataPackageR::load_all
 #' _datasets() to load them.
 #' @seealso
-#' \link{Compensation}
+#' \link{Activation}
 NULL
+
 
 
 
@@ -33,8 +34,25 @@ NULL
 
 
 
+
 #' Detailed description of the data
 #' @name Compensation
+#' @docType data
+#' @title Descriptive data title
+#' @format a \code{flowSet} containing the following fields:
+#' \describe{
+#' }
+#' @source The data comes from________________________.
+#' @seealso
+#' \link{CytoRSuiteData}
+NULL
+
+
+
+
+
+#' Detailed description of the data
+#' @name Activation
 #' @docType data
 #' @title Descriptive data title
 #' @format a \code{flowSet} containing the following fields:

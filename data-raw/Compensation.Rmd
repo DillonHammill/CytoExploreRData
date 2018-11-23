@@ -4,7 +4,6 @@ author: Dillon Hammill
 date: November 23, 2018
 output_format: html_document
 ---
-
 ```{r}
 library(cytoRSuite)
 Compensation <- read.flowSet(path = project_extdata_path('Compensation-Controls'), pattern = ".fcs")

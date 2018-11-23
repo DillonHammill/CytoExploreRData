@@ -232,3 +232,60 @@ TRACE [2018-11-23 14:01:06] Done
 TRACE [2018-11-23 14:01:06] DataPackageR succeeded
 TRACE [2018-11-23 14:01:06] Building documentation
 TRACE [2018-11-23 14:01:07] Building package
+TRACE [2018-11-23 14:44:32] Logging to C:/Users/u5351933/Documents/CytoRSuiteData/inst/extdata/Logfiles/processing.log
+TRACE [2018-11-23 14:44:32] Processing data
+TRACE [2018-11-23 14:44:32] Reading yaml configuration
+TRACE [2018-11-23 14:44:33] Found C:/Users/u5351933/Documents/CytoRSuiteData/data-raw/example-gatingTemplate.Rmd
+TRACE [2018-11-23 14:44:33] Found C:/Users/u5351933/Documents/CytoRSuiteData/data-raw/Compensation.Rmd
+TRACE [2018-11-23 14:44:33] Found C:/Users/u5351933/Documents/CytoRSuiteData/data-raw/Activation.Rmd
+TRACE [2018-11-23 14:44:33] Processing 1 of 3: C:/Users/u5351933/Documents/CytoRSuiteData/data-raw/example-gatingTemplate.Rmd
+
+TRACE [2018-11-23 14:44:36] 1 data set(s) created by example-gatingTemplate.Rmd
+TRACE [2018-11-23 14:44:36] Processing 2 of 3: C:/Users/u5351933/Documents/CytoRSuiteData/data-raw/Compensation.Rmd
+
+TRACE [2018-11-23 14:44:38] 1 data set(s) created by Compensation.Rmd
+TRACE [2018-11-23 14:44:40] Processing 3 of 3: C:/Users/u5351933/Documents/CytoRSuiteData/data-raw/Activation.Rmd
+
+TRACE [2018-11-23 14:44:43] 1 data set(s) created by Activation.Rmd
+DEBUG [2018-11-23 14:44:46] Activation added.
+DEBUG [2018-11-23 14:44:46] example_gatingTemplate changed
+DEBUG [2018-11-23 14:44:46] Activation added.
+DEBUG [2018-11-23 14:44:46] example_gatingTemplate changed
+DEBUG [2018-11-23 14:44:46] Activation added.
+DEBUG [2018-11-23 14:44:46] example_gatingTemplate changed
+TRACE [2018-11-23 14:44:46] NEWS.md file found, updating!
+TRACE [2018-11-23 14:45:07] NEWS.md file found, updating!
+TRACE [2018-11-23 14:45:07] Data has been updated and DataVersion string incremented automatically to 0.1.11
+TRACE [2018-11-23 14:45:07] Saving to data
+TRACE [2018-11-23 14:45:13] Copied documentation to C:/Users/u5351933/Documents/CytoRSuiteData/R/CytoRSuiteData.R
+TRACE [2018-11-23 14:45:15] Done
+TRACE [2018-11-23 14:45:17] DataPackageR succeeded
+TRACE [2018-11-23 14:45:17] Building documentation
+TRACE [2018-11-23 14:45:21] Building package
+TRACE [2018-11-23 14:45:47] Logging to C:/Users/u5351933/Documents/CytoRSuiteData/inst/extdata/Logfiles/processing.log
+TRACE [2018-11-23 14:45:47] Processing data
+TRACE [2018-11-23 14:45:47] Reading yaml configuration
+TRACE [2018-11-23 14:45:47] Found C:/Users/u5351933/Documents/CytoRSuiteData/data-raw/example-gatingTemplate.Rmd
+TRACE [2018-11-23 14:45:47] Found C:/Users/u5351933/Documents/CytoRSuiteData/data-raw/Compensation.Rmd
+TRACE [2018-11-23 14:45:47] Found C:/Users/u5351933/Documents/CytoRSuiteData/data-raw/Activation.Rmd
+TRACE [2018-11-23 14:45:47] Processing 1 of 3: C:/Users/u5351933/Documents/CytoRSuiteData/data-raw/example-gatingTemplate.Rmd
+
+TRACE [2018-11-23 14:45:51] 1 data set(s) created by example-gatingTemplate.Rmd
+TRACE [2018-11-23 14:45:51] Processing 2 of 3: C:/Users/u5351933/Documents/CytoRSuiteData/data-raw/Compensation.Rmd
+
+TRACE [2018-11-23 14:45:54] 1 data set(s) created by Compensation.Rmd
+TRACE [2018-11-23 14:45:55] Processing 3 of 3: C:/Users/u5351933/Documents/CytoRSuiteData/data-raw/Activation.Rmd
+
+TRACE [2018-11-23 14:45:58] 1 data set(s) created by Activation.Rmd
+WARN [2018-11-23 14:46:01] example_gatingTemplate has changed.
+WARN [2018-11-23 14:46:01] example_gatingTemplate has changed.
+WARN [2018-11-23 14:46:01] example_gatingTemplate has changed.
+TRACE [2018-11-23 14:46:01] NEWS.md file found, updating!
+TRACE [2018-11-23 14:46:13] NEWS.md file found, updating!
+TRACE [2018-11-23 14:46:13] Data has been updated and DataVersion string incremented automatically to 0.1.12
+TRACE [2018-11-23 14:46:13] Saving to data
+TRACE [2018-11-23 14:46:20] Copied documentation to C:/Users/u5351933/Documents/CytoRSuiteData/R/CytoRSuiteData.R
+TRACE [2018-11-23 14:46:22] Done
+TRACE [2018-11-23 14:46:22] DataPackageR succeeded
+TRACE [2018-11-23 14:46:22] Building documentation
+TRACE [2018-11-23 14:46:25] Building package

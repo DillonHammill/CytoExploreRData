@@ -4,9 +4,7 @@ author: Dillon Hammill
 date: November 23, 2018
 output_format: html_document
 ---
-
 ```{r}
 library(cytoRSuite)
-
 example_gatingTemplate <- gatingTemplate(project_extdata_path('Example-gatingTemplate.csv'))
 ```
