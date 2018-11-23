@@ -1,3 +1,9 @@
+DataVersion: 0.1.13
+=======================
+* Changed: Activation
+* Changed: Compensation
+Update dataset documentation.
+
 DataVersion: 0.1.12
 =======================
 * Changed: Activation

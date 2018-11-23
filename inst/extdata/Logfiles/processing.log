@@ -289,3 +289,34 @@ TRACE [2018-11-23 14:46:22] Done
 TRACE [2018-11-23 14:46:22] DataPackageR succeeded
 TRACE [2018-11-23 14:46:22] Building documentation
 TRACE [2018-11-23 14:46:25] Building package
+TRACE [2018-11-23 15:38:50] Rebuilding data package documentation.
+TRACE [2018-11-23 15:39:12] Logging to C:/Users/u5351933/Documents/CytoRSuiteData/inst/extdata/Logfiles/processing.log
+TRACE [2018-11-23 15:39:12] Processing data
+TRACE [2018-11-23 15:39:12] Reading yaml configuration
+TRACE [2018-11-23 15:39:12] Found C:/Users/u5351933/Documents/CytoRSuiteData/data-raw/example-gatingTemplate.Rmd
+TRACE [2018-11-23 15:39:12] Found C:/Users/u5351933/Documents/CytoRSuiteData/data-raw/Compensation.Rmd
+TRACE [2018-11-23 15:39:12] Found C:/Users/u5351933/Documents/CytoRSuiteData/data-raw/Activation.Rmd
+TRACE [2018-11-23 15:39:12] Processing 1 of 3: C:/Users/u5351933/Documents/CytoRSuiteData/data-raw/example-gatingTemplate.Rmd
+
+TRACE [2018-11-23 15:39:14] 1 data set(s) created by example-gatingTemplate.Rmd
+TRACE [2018-11-23 15:39:14] Processing 2 of 3: C:/Users/u5351933/Documents/CytoRSuiteData/data-raw/Compensation.Rmd
+
+TRACE [2018-11-23 15:39:17] 1 data set(s) created by Compensation.Rmd
+TRACE [2018-11-23 15:39:19] Processing 3 of 3: C:/Users/u5351933/Documents/CytoRSuiteData/data-raw/Activation.Rmd
+
+TRACE [2018-11-23 15:39:22] 1 data set(s) created by Activation.Rmd
+WARN [2018-11-23 15:39:26] example_gatingTemplate has changed.
+WARN [2018-11-23 15:39:26] example_gatingTemplate has changed.
+WARN [2018-11-23 15:39:26] example_gatingTemplate has changed.
+TRACE [2018-11-23 15:39:26] NEWS.md file found, updating!
+TRACE [2018-11-23 15:39:48] NEWS.md file found, updating!
+TRACE [2018-11-23 15:39:48] Data has been updated and DataVersion string incremented automatically to 0.1.13
+TRACE [2018-11-23 15:39:48] Saving to data
+TRACE [2018-11-23 15:39:55] Copied documentation to C:/Users/u5351933/Documents/CytoRSuiteData/R/CytoRSuiteData.R
+TRACE [2018-11-23 15:39:56] Done
+TRACE [2018-11-23 15:39:56] DataPackageR succeeded
+TRACE [2018-11-23 15:39:56] Building documentation
+TRACE [2018-11-23 15:40:00] Building package
+TRACE [2018-11-23 15:48:48] Rebuilding data package documentation.
+TRACE [2018-11-23 15:49:32] Rebuilding data package documentation.
+TRACE [2018-11-23 15:50:25] Rebuilding data package documentation.

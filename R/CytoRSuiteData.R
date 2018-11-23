@@ -16,7 +16,6 @@ NULL
 
 
 
-
 #' Example gatingTemplate used to gate the Activation dataset.
 #' @name example_gatingTemplate
 #' @docType data
@@ -34,7 +33,6 @@ NULL
 
 
 
-
 #' Detailed description of the data
 #' @name Compensation
 #' @docType data
@@ -46,7 +44,6 @@ NULL
 #' @seealso
 #' \link{CytoRSuiteData}
 NULL
-
 
 
 
