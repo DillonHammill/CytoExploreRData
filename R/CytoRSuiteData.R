@@ -1,14 +1,17 @@
-#' CytoRSuiteData A data package for cytoRSuite.
+#' CytoRSuiteData
+#' A data package for CytoRSuiteData.
 #' @docType package
 #' @aliases CytoRSuiteData-package
-#' @title Flow Cytometry Data for cytoRSuite
+#' @title Package Title
 #' @name CytoRSuiteData
-#' @description Contains flow cytometry data for use in cytoRSuite.
-#' @details Use \code{data(package='CytoRSuiteData')$results[, 3]} to see a list
-#'   of available data sets in this data package and/or
-#'   DataPackageR::load_all_datasets() to load them.
-#' @seealso \link{example_gatingTemplate}
+#' @description A description of the data package
+#' @details Use \code{data(package='CytoRSuiteData')$results[, 3]} to see a list of available data sets in this data package
+#'     and/or DataPackageR::load_all
+#' _datasets() to load them.
+#' @seealso
+#' \link{Compensation}
 NULL
+
 
 
 
@@ -24,4 +27,20 @@ NULL
 #' @source The example_gatingTemplate was generated using cytoRSuite and the
 #'   Activation dataset.
 #' @seealso \link{CytoRSuiteData}
+NULL
+
+
+
+
+
+#' Detailed description of the data
+#' @name Compensation
+#' @docType data
+#' @title Descriptive data title
+#' @format a \code{flowSet} containing the following fields:
+#' \describe{
+#' }
+#' @source The data comes from________________________.
+#' @seealso
+#' \link{CytoRSuiteData}
 NULL

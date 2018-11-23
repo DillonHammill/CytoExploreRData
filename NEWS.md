@@ -1,3 +1,27 @@
+DataVersion: 0.1.10
+=======================
+* Changed: Compensation
+Package built in non-interactive mode
+
+DataVersion: 0.1.9
+=======================
+* Changed: Compensation
+Package built in non-interactive mode
+
+DataVersion: 0.1.8
+=======================
+* Changed: Compensation
+Package built in non-interactive mode
+
+DataVersion: 0.1.7
+=======================
+Package built in non-interactive mode
+
+DataVersion: 0.1.6
+=======================
+* Added: Compensation
+Package built in non-interactive mode
+
 DataVersion: 0.1.5
 =======================
 Package built in non-interactive mode

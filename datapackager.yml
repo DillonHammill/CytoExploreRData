@@ -2,7 +2,10 @@ configuration:
   files:
     example-gatingTemplate.Rmd:
       enabled: yes
+    Compensation.Rmd:
+      enabled: yes
   objects:
   - example_gatingTemplate
+  - Compensation
   render_root:
     tmp: '214228'

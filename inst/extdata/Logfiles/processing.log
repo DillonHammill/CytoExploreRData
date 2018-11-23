@@ -110,3 +110,125 @@ TRACE [2018-11-23 12:10:19] Done
 TRACE [2018-11-23 12:10:19] DataPackageR succeeded
 TRACE [2018-11-23 12:10:19] Building documentation
 TRACE [2018-11-23 12:10:20] Building package
+TRACE [2018-11-23 12:44:56] Logging to C:/Users/u5351933/Documents/CytoRSuiteData/inst/extdata/Logfiles/processing.log
+TRACE [2018-11-23 12:44:56] Processing data
+TRACE [2018-11-23 12:44:56] Reading yaml configuration
+TRACE [2018-11-23 12:44:56] Found C:/Users/u5351933/Documents/CytoRSuiteData/data-raw/example-gatingTemplate.Rmd
+TRACE [2018-11-23 12:44:56] Found C:/Users/u5351933/Documents/CytoRSuiteData/data-raw/Compensation.Rmd
+TRACE [2018-11-23 12:44:56] Processing 1 of 2: C:/Users/u5351933/Documents/CytoRSuiteData/data-raw/example-gatingTemplate.Rmd
+
+TRACE [2018-11-23 12:44:57] 1 data set(s) created by example-gatingTemplate.Rmd
+TRACE [2018-11-23 12:44:57] Processing 2 of 2: C:/Users/u5351933/Documents/CytoRSuiteData/data-raw/Compensation.Rmd
+
+TRACE [2018-11-23 12:44:58] 1 data set(s) created by Compensation.Rmd
+DEBUG [2018-11-23 12:44:59] Compensation added.
+DEBUG [2018-11-23 12:44:59] example_gatingTemplate changed
+DEBUG [2018-11-23 12:44:59] Compensation added.
+DEBUG [2018-11-23 12:44:59] example_gatingTemplate changed
+DEBUG [2018-11-23 12:44:59] Compensation added.
+DEBUG [2018-11-23 12:44:59] example_gatingTemplate changed
+TRACE [2018-11-23 12:44:59] NEWS.md file found, updating!
+TRACE [2018-11-23 12:44:59] NEWS.md file found, updating!
+TRACE [2018-11-23 12:44:59] Data has been updated and DataVersion string incremented automatically to 0.1.6
+TRACE [2018-11-23 12:44:59] Saving to data
+TRACE [2018-11-23 12:44:59] Copied documentation to C:/Users/u5351933/Documents/CytoRSuiteData/R/CytoRSuiteData.R
+TRACE [2018-11-23 12:45:00] Done
+TRACE [2018-11-23 12:45:00] DataPackageR succeeded
+TRACE [2018-11-23 12:45:00] Building documentation
+TRACE [2018-11-23 12:45:00] Building package
+TRACE [2018-11-23 13:55:10] Logging to C:/Users/u5351933/Documents/CytoRSuiteData/inst/extdata/Logfiles/processing.log
+TRACE [2018-11-23 13:55:10] Processing data
+TRACE [2018-11-23 13:55:10] Reading yaml configuration
+TRACE [2018-11-23 13:55:10] Found C:/Users/u5351933/Documents/CytoRSuiteData/data-raw/example-gatingTemplate.Rmd
+TRACE [2018-11-23 13:55:10] Found C:/Users/u5351933/Documents/CytoRSuiteData/data-raw/Compensation.Rmd
+TRACE [2018-11-23 13:55:10] Processing 1 of 2: C:/Users/u5351933/Documents/CytoRSuiteData/data-raw/example-gatingTemplate.Rmd
+
+TRACE [2018-11-23 13:55:13] 1 data set(s) created by example-gatingTemplate.Rmd
+TRACE [2018-11-23 13:55:13] Processing 2 of 2: C:/Users/u5351933/Documents/CytoRSuiteData/data-raw/Compensation.Rmd
+
+TRACE [2018-11-23 13:55:13] 1 data set(s) created by Compensation.Rmd
+WARN [2018-11-23 13:55:14] Compensation has changed.
+WARN [2018-11-23 13:55:14] example_gatingTemplate has changed.
+WARN [2018-11-23 13:55:14] Compensation has changed.
+WARN [2018-11-23 13:55:14] example_gatingTemplate has changed.
+WARN [2018-11-23 13:55:14] Compensation has changed.
+WARN [2018-11-23 13:55:14] example_gatingTemplate has changed.
+TRACE [2018-11-23 13:55:14] NEWS.md file found, updating!
+TRACE [2018-11-23 13:55:14] NEWS.md file found, updating!
+TRACE [2018-11-23 13:55:14] Data has been updated and DataVersion string incremented automatically to 0.1.7
+TRACE [2018-11-23 13:55:14] Saving to data
+TRACE [2018-11-23 13:55:15] Copied documentation to C:/Users/u5351933/Documents/CytoRSuiteData/R/CytoRSuiteData.R
+TRACE [2018-11-23 13:55:15] Done
+TRACE [2018-11-23 13:55:15] DataPackageR succeeded
+TRACE [2018-11-23 13:55:15] Building documentation
+TRACE [2018-11-23 13:55:16] Building package
+TRACE [2018-11-23 13:55:38] Logging to C:/Users/u5351933/Documents/CytoRSuiteData/inst/extdata/Logfiles/processing.log
+TRACE [2018-11-23 13:55:38] Processing data
+TRACE [2018-11-23 13:55:38] Reading yaml configuration
+TRACE [2018-11-23 13:55:38] Found C:/Users/u5351933/Documents/CytoRSuiteData/data-raw/example-gatingTemplate.Rmd
+TRACE [2018-11-23 13:55:38] Found C:/Users/u5351933/Documents/CytoRSuiteData/data-raw/Compensation.Rmd
+TRACE [2018-11-23 13:55:38] Processing 1 of 2: C:/Users/u5351933/Documents/CytoRSuiteData/data-raw/example-gatingTemplate.Rmd
+
+TRACE [2018-11-23 13:55:39] 1 data set(s) created by example-gatingTemplate.Rmd
+TRACE [2018-11-23 13:55:39] Processing 2 of 2: C:/Users/u5351933/Documents/CytoRSuiteData/data-raw/Compensation.Rmd
+
+TRACE [2018-11-23 13:55:39] 1 data set(s) created by Compensation.Rmd
+WARN [2018-11-23 13:55:40] example_gatingTemplate has changed.
+WARN [2018-11-23 13:55:40] example_gatingTemplate has changed.
+WARN [2018-11-23 13:55:40] example_gatingTemplate has changed.
+TRACE [2018-11-23 13:55:40] NEWS.md file found, updating!
+TRACE [2018-11-23 13:55:40] NEWS.md file found, updating!
+TRACE [2018-11-23 13:55:40] Data has been updated and DataVersion string incremented automatically to 0.1.8
+TRACE [2018-11-23 13:55:40] Saving to data
+TRACE [2018-11-23 13:55:41] Copied documentation to C:/Users/u5351933/Documents/CytoRSuiteData/R/CytoRSuiteData.R
+TRACE [2018-11-23 13:55:41] Done
+TRACE [2018-11-23 13:55:41] DataPackageR succeeded
+TRACE [2018-11-23 13:55:41] Building documentation
+TRACE [2018-11-23 13:55:42] Building package
+TRACE [2018-11-23 13:55:47] Logging to C:/Users/u5351933/Documents/CytoRSuiteData/inst/extdata/Logfiles/processing.log
+TRACE [2018-11-23 13:55:47] Processing data
+TRACE [2018-11-23 13:55:47] Reading yaml configuration
+TRACE [2018-11-23 13:55:47] Found C:/Users/u5351933/Documents/CytoRSuiteData/data-raw/example-gatingTemplate.Rmd
+TRACE [2018-11-23 13:55:47] Found C:/Users/u5351933/Documents/CytoRSuiteData/data-raw/Compensation.Rmd
+TRACE [2018-11-23 13:55:47] Processing 1 of 2: C:/Users/u5351933/Documents/CytoRSuiteData/data-raw/example-gatingTemplate.Rmd
+
+TRACE [2018-11-23 13:55:47] 1 data set(s) created by example-gatingTemplate.Rmd
+TRACE [2018-11-23 13:55:47] Processing 2 of 2: C:/Users/u5351933/Documents/CytoRSuiteData/data-raw/Compensation.Rmd
+
+TRACE [2018-11-23 13:55:48] 1 data set(s) created by Compensation.Rmd
+WARN [2018-11-23 13:55:49] example_gatingTemplate has changed.
+WARN [2018-11-23 13:55:49] example_gatingTemplate has changed.
+WARN [2018-11-23 13:55:49] example_gatingTemplate has changed.
+TRACE [2018-11-23 13:55:49] NEWS.md file found, updating!
+TRACE [2018-11-23 13:55:49] NEWS.md file found, updating!
+TRACE [2018-11-23 13:55:49] Data has been updated and DataVersion string incremented automatically to 0.1.9
+TRACE [2018-11-23 13:55:49] Saving to data
+TRACE [2018-11-23 13:55:50] Copied documentation to C:/Users/u5351933/Documents/CytoRSuiteData/R/CytoRSuiteData.R
+TRACE [2018-11-23 13:55:50] Done
+TRACE [2018-11-23 13:55:50] DataPackageR succeeded
+TRACE [2018-11-23 13:55:50] Building documentation
+TRACE [2018-11-23 13:55:51] Building package
+TRACE [2018-11-23 14:00:47] Rebuilding data package documentation.
+TRACE [2018-11-23 14:01:03] Logging to C:/Users/u5351933/Documents/CytoRSuiteData/inst/extdata/Logfiles/processing.log
+TRACE [2018-11-23 14:01:03] Processing data
+TRACE [2018-11-23 14:01:03] Reading yaml configuration
+TRACE [2018-11-23 14:01:03] Found C:/Users/u5351933/Documents/CytoRSuiteData/data-raw/example-gatingTemplate.Rmd
+TRACE [2018-11-23 14:01:03] Found C:/Users/u5351933/Documents/CytoRSuiteData/data-raw/Compensation.Rmd
+TRACE [2018-11-23 14:01:03] Processing 1 of 2: C:/Users/u5351933/Documents/CytoRSuiteData/data-raw/example-gatingTemplate.Rmd
+
+TRACE [2018-11-23 14:01:03] 1 data set(s) created by example-gatingTemplate.Rmd
+TRACE [2018-11-23 14:01:03] Processing 2 of 2: C:/Users/u5351933/Documents/CytoRSuiteData/data-raw/Compensation.Rmd
+
+TRACE [2018-11-23 14:01:04] 1 data set(s) created by Compensation.Rmd
+WARN [2018-11-23 14:01:05] example_gatingTemplate has changed.
+WARN [2018-11-23 14:01:05] example_gatingTemplate has changed.
+WARN [2018-11-23 14:01:05] example_gatingTemplate has changed.
+TRACE [2018-11-23 14:01:05] NEWS.md file found, updating!
+TRACE [2018-11-23 14:01:05] NEWS.md file found, updating!
+TRACE [2018-11-23 14:01:05] Data has been updated and DataVersion string incremented automatically to 0.1.10
+TRACE [2018-11-23 14:01:05] Saving to data
+TRACE [2018-11-23 14:01:06] Copied documentation to C:/Users/u5351933/Documents/CytoRSuiteData/R/CytoRSuiteData.R
+TRACE [2018-11-23 14:01:06] Done
+TRACE [2018-11-23 14:01:06] DataPackageR succeeded
+TRACE [2018-11-23 14:01:06] Building documentation
+TRACE [2018-11-23 14:01:07] Building package

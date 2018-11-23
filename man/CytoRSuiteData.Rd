@@ -4,17 +4,18 @@
 \name{CytoRSuiteData}
 \alias{CytoRSuiteData}
 \alias{CytoRSuiteData-package}
-\title{Flow Cytometry Data for cytoRSuite}
+\title{Package Title}
 \description{
-Contains flow cytometry data for use in cytoRSuite.
+A description of the data package
 }
 \details{
-CytoRSuiteData A data package for cytoRSuite.
+CytoRSuiteData
+A data package for CytoRSuiteData.
 
-Use \code{data(package='CytoRSuiteData')$results[, 3]} to see a list
-of available data sets in this data package and/or
-DataPackageR::load_all_datasets() to load them.
+Use \code{data(package='CytoRSuiteData')$results[, 3]} to see a list of available data sets in this data package
+and/or DataPackageR::load_all
+_datasets() to load them.
 }
 \seealso{
-\link{example_gatingTemplate}
+\link{Compensation}
 }
