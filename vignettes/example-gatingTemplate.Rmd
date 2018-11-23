@@ -1,0 +1,17 @@
+---
+title: Process example gatingTemplate csv file to gatingTemplate object.
+author: Dillon Hammill
+date: November 23, 2018
+output_format: html_document
+vignette: >
+  %\VignetteIndexEntry{Process example gatingTemplate csv file to gatingTemplate object.}
+  %\VignetteEngine{knitr::rmarkdown}
+  \usepackage[utf8]{inputenc}
+---
+
+```{r}
+library(cytoRSuite)
+
+example_gatingTemplate <- gatingTemplate(project_extdata_path('Example-gatingTemplate.csv'))
+```
+

@@ -1,0 +1,20 @@
+Package: CytoRSuiteData
+Title: Flow Cytometry Data for cytoRSuite
+Version: 1.0
+Authors@R: 
+    person(given = "Dillon",
+           family = "Hammill",
+           role = c("aut", "cre"),
+           email = "Dillon.Hammill@anu.edu.au")
+Description: Contains gatingTemplates, example fcs files and compensation controls for use in cytoRSuite.
+License: GPL-2
+Encoding: UTF-8
+LazyData: true
+DataVersion: 0.1.5
+Roxygen: list(markdown = TRUE)
+Date: 2018-11-23
+Suggests: 
+    knitr,
+    rmarkdown
+VignetteBuilder: knitr
+RoxygenNote: 6.1.1
