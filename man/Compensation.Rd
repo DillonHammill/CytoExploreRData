@@ -3,15 +3,22 @@
 \docType{data}
 \name{Compensation}
 \alias{Compensation}
-\title{Descriptive data title}
-\format{a \code{flowSet} containing the following fields:
+\title{A collection of single stain compensation controls and an unstained
+control used in cytoRSuite.}
+\format{a \code{flowSet} containing the following 6 compensation controls:
 \describe{
+\item{7AAD.fcs}
+\item{AF-430.fcs}
+\item{APC-Cy7.fcs}
+\item{NIL.fcs}
+\item{PE-Cy7.fcs}
+\item{PE.fcs}
 }}
 \source{
-The data comes from________________________.
+Some compensation controls from an experiment.
 }
 \description{
-Detailed description of the data
+Compensation control samples.
 }
 \seealso{
 \link{CytoRSuiteData}

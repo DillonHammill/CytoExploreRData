@@ -3,15 +3,27 @@
 \docType{data}
 \name{Activation}
 \alias{Activation}
-\title{Descriptive data title}
+\title{Activation Dataset}
 \format{a \code{flowSet} containing the following fields:
 \describe{
+An experiment performed to assess the in vitro activation of OT-I and OT-II transgenic T cells co-cultured with
+OVA-presenting dendritic cells (DCs). This dataset is comprised of four samples saved as a \code{flowSet} object.
+Samples are arranged in order of increasing OVA concentration.
+
+Pooled DCs & T cells were labelled as follows:
+\item{Hoechst 33258, a DNA intercalating dye which fluoresces in Alexa Fluor 405-A and Alexa Fluor 430-A channels.}
+\item{CD11c-APC-Cy7 to identify DCs within the samples.}
+\item{Va2-PE to identify cells which express the OVA-specific TCR (i.e. OT-I and OT-II T cells).}
+\item{CD8-FITC to identify the CD8+ OT-I transgenic T cells (Alexa Fluor 488-A).}
+\item{CD4-Alexa Fluor 700 to identify the CD4+ OT-II transgenic T cells (Alexa Fluor 700-A).}
+\item{CD44-APC to assess T cell activation (Alexa Fluor 647-A).}
+\item{CD69-PerCP Cy5.5 to assess T cell activation (7-AAD-A).}
 }}
 \source{
-The data comes from________________________.
+The data comes from an in vitro OT-I/II T cell activation assay.
 }
 \description{
-Detailed description of the data
+Data from in vitro OT-I/II T cell activation assay.
 }
 \seealso{
 \link{CytoRSuiteData}

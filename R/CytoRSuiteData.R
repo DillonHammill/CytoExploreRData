@@ -1,15 +1,15 @@
-#' CytoRSuiteData A data package for cytoRSuite.
+#' CytoRSuiteData
+#' A data package for CytoRSuiteData.
 #' @docType package
 #' @aliases CytoRSuiteData-package
-#' @title Flow cytometry datasets used in cytoRSuite.
+#' @title Package Title
 #' @name CytoRSuiteData
-#' @description Contains flow cytometry datasets for use in cytoRSuite,
-#'   including a flowSet of compensation controls, an experimental flowSet
-#'   containing 4 samples and an example gatingTemplate.
-#' @details Contains flowSet of compensation controls called "Compensation", a
-#'   flowSet of experimental samples called "Activation" and an example
-#'   gatingTemplate called "example_gatingTemplate".
-#' @seealso \link{Activation} \link{Compensation} \link{example_gatingTemplate}
+#' @description A description of the data package
+#' @details Use \code{data(package='CytoRSuiteData')$results[, 3]} to see a list of available data sets in this data package
+#'     and/or DataPackageR::load_all
+#' _datasets() to load them.
+#' @seealso
+#' \link{Activation}
 NULL
 
 
@@ -52,7 +52,6 @@ NULL
 #' @source Some compensation controls from an experiment.
 #' @seealso \link{CytoRSuiteData}
 NULL
-
 
 
 
