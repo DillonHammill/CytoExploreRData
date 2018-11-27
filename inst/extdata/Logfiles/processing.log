@@ -673,3 +673,31 @@ TRACE [2018-11-27 11:25:43] Done
 TRACE [2018-11-27 11:25:43] DataPackageR succeeded
 TRACE [2018-11-27 11:25:43] Building documentation
 TRACE [2018-11-27 11:25:45] Building package
+TRACE [2018-11-27 11:37:39] Rebuilding data package documentation.
+TRACE [2018-11-27 11:59:57] Logging to C:/Users/u5351933/Documents/CytoRSuiteData/inst/extdata/Logfiles/processing.log
+TRACE [2018-11-27 11:59:57] Processing data
+TRACE [2018-11-27 11:59:57] Reading yaml configuration
+TRACE [2018-11-27 11:59:57] Found C:/Users/u5351933/Documents/CytoRSuiteData/data-raw/Activation-gatingTemplate.Rmd
+TRACE [2018-11-27 11:59:57] Found C:/Users/u5351933/Documents/CytoRSuiteData/data-raw/Compensation.Rmd
+TRACE [2018-11-27 11:59:57] Found C:/Users/u5351933/Documents/CytoRSuiteData/data-raw/Activation.Rmd
+TRACE [2018-11-27 11:59:57] Processing 1 of 3: C:/Users/u5351933/Documents/CytoRSuiteData/data-raw/Activation-gatingTemplate.Rmd
+
+TRACE [2018-11-27 12:00:00] 1 data set(s) created by Activation-gatingTemplate.Rmd
+TRACE [2018-11-27 12:00:00] Processing 2 of 3: C:/Users/u5351933/Documents/CytoRSuiteData/data-raw/Compensation.Rmd
+
+TRACE [2018-11-27 12:00:02] 1 data set(s) created by Compensation.Rmd
+TRACE [2018-11-27 12:00:04] Processing 3 of 3: C:/Users/u5351933/Documents/CytoRSuiteData/data-raw/Activation.Rmd
+
+TRACE [2018-11-27 12:00:06] 1 data set(s) created by Activation.Rmd
+WARN [2018-11-27 12:00:10] Activation_gatingTemplate has changed.
+WARN [2018-11-27 12:00:10] Activation_gatingTemplate has changed.
+WARN [2018-11-27 12:00:10] Activation_gatingTemplate has changed.
+TRACE [2018-11-27 12:00:10] NEWS.md file found, updating!
+TRACE [2018-11-27 12:00:13] NEWS.md file found, updating!
+TRACE [2018-11-27 12:00:13] Data has been updated and DataVersion string incremented automatically to 0.1.25
+TRACE [2018-11-27 12:00:13] Saving to data
+TRACE [2018-11-27 12:00:18] Copied documentation to C:/Users/u5351933/Documents/CytoRSuiteData/R/CytoRSuiteData.R
+TRACE [2018-11-27 12:00:18] Done
+TRACE [2018-11-27 12:00:18] DataPackageR succeeded
+TRACE [2018-11-27 12:00:18] Building documentation
+TRACE [2018-11-27 12:00:22] Building package

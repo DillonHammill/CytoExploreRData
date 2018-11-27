@@ -129,8 +129,9 @@ $(document).ready(function () {
 </div>
 
 
-<pre class="r"><code>library(cytoRSuite)
-Activation_gatingTemplate &lt;- gatingTemplate(project_extdata_path('Example-gatingTemplate.csv'))</code></pre>
+<pre class="r"><code>library(DataPackageR)
+library(cytoRSuite)
+Activation_gatingTemplate &lt;- gatingTemplate(DataPackageR::project_extdata_path('Example-gatingTemplate.csv'))</code></pre>
 <pre><code>## Adding population:Cells</code></pre>
 <pre><code>## Adding population:Single Cells</code></pre>
 <pre><code>## Adding population:Live Cells</code></pre>

@@ -5,6 +5,7 @@ date: November 23, 2018
 output_format: html_document
 ---
 ```{r}
+library(DataPackageR)
 library(cytoRSuite)
-Activation_gatingTemplate <- gatingTemplate(project_extdata_path('Example-gatingTemplate.csv'))
+Activation_gatingTemplate <- gatingTemplate(DataPackageR::project_extdata_path('Example-gatingTemplate.csv'))
 ```
