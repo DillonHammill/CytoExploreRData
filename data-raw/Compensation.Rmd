@@ -5,6 +5,6 @@ date: November 23, 2018
 output_format: html_document
 ---
 ```{r}
-library(cytoRSuite)
+library(CytoRSuite)
 Compensation <- read.flowSet(path = project_extdata_path('Compensation-Controls'), pattern = ".fcs")
 ```

@@ -10,7 +10,7 @@ vignette: >
 ---
 
 ```{r}
-library(cytoRSuite)
+library(CytoRSuite)
 Compensation <- read.flowSet(path = project_extdata_path('Compensation-Controls'), pattern = ".fcs")
 ```
 

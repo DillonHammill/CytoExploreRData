@@ -5,6 +5,6 @@ date: November 23, 2018
 output_format: html_document
 ---
 ```{r}
-library(cytoRSuite)
+library(CytoRSuite)
 Activation <- read.flowSet(path = project_extdata_path('Activation'))
 ```

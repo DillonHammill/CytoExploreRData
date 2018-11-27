@@ -1,3 +1,9 @@
+DataVersion: 0.1.26
+=======================
+* Changed: Activation
+* Changed: Compensation
+Change cytoRSuite to CytoRSuite
+
 DataVersion: 0.1.25
 =======================
 * Changed: Activation

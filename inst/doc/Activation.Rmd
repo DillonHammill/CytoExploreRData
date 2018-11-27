@@ -10,7 +10,7 @@ vignette: >
 ---
 
 ```{r}
-library(cytoRSuite)
+library(CytoRSuite)
 Activation <- read.flowSet(path = project_extdata_path('Activation'))
 ```
 
