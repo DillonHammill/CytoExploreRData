@@ -3,23 +3,29 @@
 \docType{data}
 \name{Compensation}
 \alias{Compensation}
-\title{A collection of single stain compensation controls and an unstained
-control used in cytoRSuite.}
-\format{a \code{flowSet} containing the following 6 compensation controls:
-\describe{
-\item{7AAD.fcs}
-\item{AF-430.fcs}
-\item{APC-Cy7.fcs}
-\item{NIL.fcs}
-\item{PE-Cy7.fcs}
-\item{PE.fcs}
-}}
+\title{CytoRSuite Compensation Controls.}
+\format{A \code{flowSet} containing the 6 compensation controls.}
 \source{
 Some compensation controls from an experiment.
 }
 \description{
-Compensation control samples.
+A collection of single stain compensation controls and an
+unstained control used in CytoRSuite for testing and demonstration
+purposes.
+}
+\details{
+Compensation controls are as follows: \itemize{
+\item{\strong{7AAD.fcs}} \item{\strong{AF-430.fcs}}
+\item{\strong{APC-Cy7.fcs}} \item{\strong{NIL.fcs}{  (Unstained)}}
+\item{\strong{PE-Cy7.fcs}} \item{\strong{PE.fcs}} }
 }
 \seealso{
 \link{CytoRSuiteData}
+
+\link{Activation}
+
+\link{Activation_gatingTemplate}
+}
+\author{
+Dillon Hammill (Dillon.Hammill@anu.edu.au)
 }

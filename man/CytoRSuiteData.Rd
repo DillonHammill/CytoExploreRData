@@ -22,15 +22,15 @@ only. Compensation controls include: \itemize{\item{\strong{7AAD.fcs}}
 \item{\strong{PE-Cy7.fcs}} \item{\strong{PE.fcs}}} }
 \item{\strong{Activation}}{ A flowSet of 4 samples from an in vitro OT-I/II
 activation assay. In this assay dendritic cells (DCs) were activated and
-pulsed with increasing concentrations of ovalbumin. Following overnight
-culture, activated DCs were co-cultured with OT-I/II OVA-specific T cells
-overnight. The extent of T activation was assessed by flow cytometry as
-follows: \itemize{ \item{\strong{Hoechst 33258}}{  a DNA intercalating dye
-which fluoresces in Alexa Fluor 405-A and Alexa Fluor 430-A channels.}
-\item{\strong{CD11c-APC-Cy7}}{  to identify DCs within the samples.}
-\item{\strong{Va2-PE}}{  to identify cells which express the OVA-specific
-TCR (i.e. OT-I and OT-II T cells).} \item{\strong{CD8-FITC}}{ to identify
-the CD8+ OT-I transgenic T cells (Alexa Fluor 488-A).}
+pulsed with increasing concentrations of ovalbumin (OVA). Following
+overnight culture, activated DCs were co-cultured with OT-I/II OVA-specific
+T cells overnight. The extent of T activation was assessed by flow
+cytometry as follows: \itemize{ \item{\strong{Hoechst 33258}}{  a DNA
+intercalating dye which fluoresces in Alexa Fluor 405-A and Alexa Fluor
+430-A channels.} \item{\strong{CD11c-APC-Cy7}}{  to identify DCs within the
+samples.} \item{\strong{Va2-PE}}{  to identify cells which express the
+OVA-specific TCR (i.e. OT-I and OT-II T cells).} \item{\strong{CD8-FITC}}{
+to identify the CD8+ OT-I transgenic T cells (Alexa Fluor 488-A).}
 \item{\strong{CD4-Alexa Fluor 700}}{  to identify the CD4+ OT-II transgenic
 T cells (Alexa Fluor 700-A).} \item{\strong{CD44-APC}}{  to assess the
 extent of T cell activation (Alexa Fluor 647-A).} \item{\strong{CD69-PerCP

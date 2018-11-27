@@ -1,14 +1,14 @@
 configuration:
   files:
-    example-gatingTemplate.Rmd:
+    Activation-gatingTemplate.Rmd:
       enabled: yes
     Compensation.Rmd:
       enabled: yes
     Activation.Rmd:
       enabled: yes
   objects:
-  - example_gatingTemplate
   - Compensation
   - Activation
+  - Activation_gatingTemplate
   render_root:
     tmp: '214228'

@@ -1,3 +1,21 @@
+DataVersion: 0.1.19
+=======================
+* Changed: Activation
+* Changed: Compensation
+Update documentation
+
+DataVersion: 0.1.18
+=======================
+* Changed: Activation
+* Changed: Compensation
+
+
+DataVersion: 0.1.17
+=======================
+* Changed: Activation
+* Changed: Compensation
+Change example_gatingTemplate to Activation_gatingTemplate
+
 DataVersion: 0.1.16
 =======================
 * Changed: Activation
