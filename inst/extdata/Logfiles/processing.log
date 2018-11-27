@@ -745,3 +745,33 @@ TRACE [2018-11-27 12:33:57] Done
 TRACE [2018-11-27 12:33:57] DataPackageR succeeded
 TRACE [2018-11-27 12:33:57] Building documentation
 TRACE [2018-11-27 12:33:59] Building package
+TRACE [2018-11-27 13:59:53] Logging to C:/Users/u5351933/Documents/CytoRSuiteData/inst/extdata/Logfiles/processing.log
+TRACE [2018-11-27 13:59:53] Processing data
+TRACE [2018-11-27 13:59:53] Reading yaml configuration
+TRACE [2018-11-27 13:59:53] Found C:/Users/u5351933/Documents/CytoRSuiteData/data-raw/Activation-gatingTemplate.Rmd
+TRACE [2018-11-27 13:59:53] Found C:/Users/u5351933/Documents/CytoRSuiteData/data-raw/Compensation.Rmd
+TRACE [2018-11-27 13:59:53] Found C:/Users/u5351933/Documents/CytoRSuiteData/data-raw/Activation.Rmd
+TRACE [2018-11-27 13:59:53] Processing 1 of 3: C:/Users/u5351933/Documents/CytoRSuiteData/data-raw/Activation-gatingTemplate.Rmd
+
+TRACE [2018-11-27 14:00:07] 1 data set(s) created by Activation-gatingTemplate.Rmd
+TRACE [2018-11-27 14:00:07] Processing 2 of 3: C:/Users/u5351933/Documents/CytoRSuiteData/data-raw/Compensation.Rmd
+
+TRACE [2018-11-27 14:00:10] 1 data set(s) created by Compensation.Rmd
+TRACE [2018-11-27 14:00:12] Processing 3 of 3: C:/Users/u5351933/Documents/CytoRSuiteData/data-raw/Activation.Rmd
+
+TRACE [2018-11-27 14:00:17] 1 data set(s) created by Activation.Rmd
+WARN [2018-11-27 14:00:33] Activation has changed.
+WARN [2018-11-27 14:00:33] Activation_gatingTemplate has changed.
+WARN [2018-11-27 14:00:33] Activation has changed.
+WARN [2018-11-27 14:00:33] Activation_gatingTemplate has changed.
+WARN [2018-11-27 14:00:33] Activation has changed.
+WARN [2018-11-27 14:00:33] Activation_gatingTemplate has changed.
+TRACE [2018-11-27 14:00:33] NEWS.md file found, updating!
+TRACE [2018-11-27 14:00:46] NEWS.md file found, updating!
+TRACE [2018-11-27 14:00:46] Data has been updated and DataVersion string incremented automatically to 0.1.27
+TRACE [2018-11-27 14:00:46] Saving to data
+TRACE [2018-11-27 14:01:04] Copied documentation to C:/Users/u5351933/Documents/CytoRSuiteData/R/CytoRSuiteData.R
+TRACE [2018-11-27 14:01:06] Done
+TRACE [2018-11-27 14:01:06] DataPackageR succeeded
+TRACE [2018-11-27 14:01:06] Building documentation
+TRACE [2018-11-27 14:01:09] Building package

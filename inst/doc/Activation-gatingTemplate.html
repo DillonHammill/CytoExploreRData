@@ -130,8 +130,17 @@ $(document).ready(function () {
 
 
 <pre class="r"><code>library(DataPackageR)
-library(CytoRSuite)
-Activation_gatingTemplate &lt;- gatingTemplate(DataPackageR::project_extdata_path('Example-gatingTemplate.csv'))</code></pre>
+library(CytoRSuite)</code></pre>
+<pre><code>## Loading required package: openCyto</code></pre>
+<pre><code>## Loading required package: flowWorkspace</code></pre>
+<pre><code>## Loading required package: flowCore</code></pre>
+<pre><code>## Loading required package: ncdfFlow</code></pre>
+<pre><code>## Loading required package: RcppArmadillo</code></pre>
+<pre><code>## Loading required package: BH</code></pre>
+<pre><code>## Registered drawGate</code></pre>
+<pre><code>## Registered manualGate</code></pre>
+<pre><code>## Registered ppmanualGate</code></pre>
+<pre class="r"><code>Activation_gatingTemplate &lt;- gatingTemplate(DataPackageR::project_extdata_path('Example-gatingTemplate.csv'))</code></pre>
 <pre><code>## Adding population:Cells</code></pre>
 <pre><code>## Adding population:Single Cells</code></pre>
 <pre><code>## Adding population:Live Cells</code></pre>
