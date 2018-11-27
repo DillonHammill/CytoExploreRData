@@ -1,3 +1,9 @@
+DataVersion: 0.1.29
+=======================
+* Changed: Activation
+* Changed: Compensation
+Change name Example-gatingTemplate.csv to Activation-gatingTemplate.csv
+
 DataVersion: 0.1.28
 =======================
 * Changed: Compensation

@@ -12,6 +12,6 @@ vignette: >
 ```{r}
 library(DataPackageR)
 library(CytoRSuite)
-Activation_gatingTemplate <- gatingTemplate(DataPackageR::project_extdata_path('Example-gatingTemplate.csv'))
+Activation_gatingTemplate <- gatingTemplate(DataPackageR::project_extdata_path('Activation-gatingTemplate.csv'))
 ```
 

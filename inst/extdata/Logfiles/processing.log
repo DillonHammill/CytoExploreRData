@@ -805,3 +805,30 @@ TRACE [2018-11-27 14:17:00] Done
 TRACE [2018-11-27 14:17:00] DataPackageR succeeded
 TRACE [2018-11-27 14:17:00] Building documentation
 TRACE [2018-11-27 14:17:02] Building package
+TRACE [2018-11-27 15:38:15] Logging to C:/Users/u5351933/Documents/CytoRSuiteData/inst/extdata/Logfiles/processing.log
+TRACE [2018-11-27 15:38:15] Processing data
+TRACE [2018-11-27 15:38:15] Reading yaml configuration
+TRACE [2018-11-27 15:38:15] Found C:/Users/u5351933/Documents/CytoRSuiteData/data-raw/Activation-gatingTemplate.Rmd
+TRACE [2018-11-27 15:38:15] Found C:/Users/u5351933/Documents/CytoRSuiteData/data-raw/Compensation.Rmd
+TRACE [2018-11-27 15:38:15] Found C:/Users/u5351933/Documents/CytoRSuiteData/data-raw/Activation.Rmd
+TRACE [2018-11-27 15:38:15] Processing 1 of 3: C:/Users/u5351933/Documents/CytoRSuiteData/data-raw/Activation-gatingTemplate.Rmd
+
+TRACE [2018-11-27 15:38:22] 1 data set(s) created by Activation-gatingTemplate.Rmd
+TRACE [2018-11-27 15:38:22] Processing 2 of 3: C:/Users/u5351933/Documents/CytoRSuiteData/data-raw/Compensation.Rmd
+
+TRACE [2018-11-27 15:38:25] 1 data set(s) created by Compensation.Rmd
+TRACE [2018-11-27 15:38:26] Processing 3 of 3: C:/Users/u5351933/Documents/CytoRSuiteData/data-raw/Activation.Rmd
+
+TRACE [2018-11-27 15:38:30] 1 data set(s) created by Activation.Rmd
+WARN [2018-11-27 15:38:33] Activation_gatingTemplate has changed.
+WARN [2018-11-27 15:38:33] Activation_gatingTemplate has changed.
+WARN [2018-11-27 15:38:33] Activation_gatingTemplate has changed.
+TRACE [2018-11-27 15:38:33] NEWS.md file found, updating!
+TRACE [2018-11-27 15:39:08] NEWS.md file found, updating!
+TRACE [2018-11-27 15:39:08] Data has been updated and DataVersion string incremented automatically to 0.1.29
+TRACE [2018-11-27 15:39:08] Saving to data
+TRACE [2018-11-27 15:39:15] Copied documentation to C:/Users/u5351933/Documents/CytoRSuiteData/R/CytoRSuiteData.R
+TRACE [2018-11-27 15:39:16] Done
+TRACE [2018-11-27 15:39:16] DataPackageR succeeded
+TRACE [2018-11-27 15:39:16] Building documentation
+TRACE [2018-11-27 15:39:19] Building package
