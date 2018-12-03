@@ -1,3 +1,9 @@
+DataVersion: 0.1.30
+=======================
+* Changed: Activation
+* Changed: Compensation
+Update gatingTemplate csv file to remove groupBy.
+
 DataVersion: 0.1.29
 =======================
 * Changed: Activation
