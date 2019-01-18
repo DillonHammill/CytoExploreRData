@@ -130,8 +130,18 @@ $(document).ready(function () {
 
 
 <pre class="r"><code>library(DataPackageR)
-library(CytoRSuite)
-Compensation &lt;- read.flowSet(path = DataPackageR::project_extdata_path('Compensation-Controls'), pattern = &quot;.fcs&quot;)</code></pre>
+library(CytoRSuite)</code></pre>
+<pre><code>## Loading required package: openCyto</code></pre>
+<pre><code>## Loading required package: flowWorkspace</code></pre>
+<pre><code>## Loading required package: flowCore</code></pre>
+<pre><code>## Loading required package: ncdfFlow</code></pre>
+<pre><code>## Loading required package: RcppArmadillo</code></pre>
+<pre><code>## Loading required package: BH</code></pre>
+<pre><code>## Registered gate_manual</code></pre>
+<pre><code>## Registered gate_draw</code></pre>
+<pre><code>## Registered pp_gate_draw</code></pre>
+<pre class="r"><code>Compensation &lt;- read.flowSet(path = DataPackageR::project_extdata_path('Compensation-Controls'), pattern = &quot;.fcs&quot;)</code></pre>
+<pre><code>## &lt;U+2714&gt; Setting active project to 'C:/Users/u5351933/Documents/CytoRSuiteData'</code></pre>
 
 
 

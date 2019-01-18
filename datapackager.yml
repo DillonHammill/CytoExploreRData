@@ -6,9 +6,12 @@ configuration:
       enabled: yes
     Activation.Rmd:
       enabled: yes
+    Compensation-gatingTemplate.Rmd:
+      enabled: yes
   objects:
   - Compensation
   - Activation
   - Activation_gatingTemplate
+  - Compensation_gatingTemplate
   render_root:
     tmp: '214228'

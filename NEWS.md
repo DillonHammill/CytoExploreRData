@@ -1,3 +1,22 @@
+DataVersion: 0.1.33
+=======================
+* Changed: Activation
+* Changed: Compensation
+
+
+DataVersion: 0.1.32
+=======================
+* Changed: Activation
+* Changed: Compensation
+Update documentation for Compensation gatingTemplate.
+
+DataVersion: 0.1.31
+=======================
+* Added: Compensation_gatingTemplate
+* Changed: Activation
+* Changed: Compensation
+Add Compensation gatingTemplate and channel match files for tests and examples.
+
 DataVersion: 0.1.30
 =======================
 * Changed: Activation

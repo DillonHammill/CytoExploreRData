@@ -1,0 +1,16 @@
+---
+title: Process Compensation gatingTemplate csv file to gatingTemplate object.
+author: Dillon Hammill
+date: January 18, 2019
+output_format: html_document
+vignette: >
+  %\VignetteIndexEntry{Process Compensation gatingTemplate csv file to gatingTemplate object.}
+  %\VignetteEngine{knitr::rmarkdown}
+  \usepackage[utf8]{inputenc}
+---
+
+```{r}
+library(DataPackageR)
+library(CytoRSuite)
+Compensation_gatingTemplate <- gatingTemplate(DataPackageR::project_extdata_path('Compensation-gatingTemplate.csv'))
+```

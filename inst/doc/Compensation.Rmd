@@ -1,7 +1,7 @@
 ---
 title: Process compensation controls fcs files into flowSet.
 author: Dillon Hammill
-date: November 23, 2018
+date: January 18, 2019
 output_format: html_document
 vignette: >
   %\VignetteIndexEntry{Process compensation controls fcs files into flowSet.}
@@ -10,7 +10,8 @@ vignette: >
 ---
 
 ```{r}
+library(DataPackageR)
 library(CytoRSuite)
-Compensation <- read.flowSet(path = project_extdata_path('Compensation-Controls'), pattern = ".fcs")
+Compensation <- read.flowSet(path = DataPackageR::project_extdata_path('Compensation-Controls'), pattern = ".fcs")
 ```
 

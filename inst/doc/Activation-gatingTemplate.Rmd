@@ -1,10 +1,10 @@
 ---
-title: Process example gatingTemplate csv file to gatingTemplate object.
+title: Process Activation gatingTemplate csv file to gatingTemplate object.
 author: Dillon Hammill
-date: November 23, 2018
+date: January 18, 2019
 output_format: html_document
 vignette: >
-  %\VignetteIndexEntry{Process example gatingTemplate csv file to gatingTemplate object.}
+  %\VignetteIndexEntry{Process Activation gatingTemplate csv file to gatingTemplate object.}
   %\VignetteEngine{knitr::rmarkdown}
   \usepackage[utf8]{inputenc}
 ---

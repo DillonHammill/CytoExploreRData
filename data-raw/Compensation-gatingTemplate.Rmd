@@ -1,0 +1,12 @@
+---
+title: Process Compensation gatingTemplate csv file to gatingTemplate object.
+author: Dillon Hammill
+date: January 18, 2019
+output_format: html_document
+---
+
+```{r}
+library(DataPackageR)
+library(CytoRSuite)
+Compensation_gatingTemplate <- gatingTemplate(DataPackageR::project_extdata_path('Compensation-gatingTemplate.csv'))
+```

@@ -3,7 +3,7 @@
 \docType{data}
 \name{Compensation}
 \alias{Compensation}
-\title{CytoRSuite Compensation Controls.}
+\title{CytoRSuite Compensation Dataset.}
 \format{A \code{flowSet} containing the 6 compensation controls.}
 \source{
 Some compensation controls from an experiment.
