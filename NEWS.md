@@ -1,3 +1,9 @@
+DataVersion: 0.1.34
+=======================
+* Changed: Activation
+* Changed: Compensation
+Update Activation gatingTemplate with new gating method and preprocessing names
+
 DataVersion: 0.1.33
 =======================
 * Changed: Activation
