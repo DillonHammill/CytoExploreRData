@@ -1,3 +1,7 @@
+DataVersion: 0.1.36
+=======================
+Name change to Compensation-Channels.csv
+
 DataVersion: 0.1.35
 =======================
 * Changed: Activation

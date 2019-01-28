@@ -1029,3 +1029,44 @@ TRACE [2019-01-18 14:05:56] Done
 TRACE [2019-01-18 14:05:56] DataPackageR succeeded
 TRACE [2019-01-18 14:05:56] Building documentation
 TRACE [2019-01-18 14:06:00] Building package
+TRACE [2019-01-28 19:13:52] Logging to C:/Users/dillo/Documents/CytoRSuiteData/inst/extdata/Logfiles/processing.log
+TRACE [2019-01-28 19:13:52] Processing data
+TRACE [2019-01-28 19:13:52] Reading yaml configuration
+TRACE [2019-01-28 19:13:52] Found C:/Users/dillo/Documents/CytoRSuiteData/data-raw/Activation-gatingTemplate.Rmd
+TRACE [2019-01-28 19:13:52] Found C:/Users/dillo/Documents/CytoRSuiteData/data-raw/Compensation.Rmd
+TRACE [2019-01-28 19:13:52] Found C:/Users/dillo/Documents/CytoRSuiteData/data-raw/Activation.Rmd
+TRACE [2019-01-28 19:13:52] Found C:/Users/dillo/Documents/CytoRSuiteData/data-raw/Compensation-gatingTemplate.Rmd
+TRACE [2019-01-28 19:13:52] Processing 1 of 4: C:/Users/dillo/Documents/CytoRSuiteData/data-raw/Activation-gatingTemplate.Rmd
+
+TRACE [2019-01-28 19:14:04] 1 data set(s) created by Activation-gatingTemplate.Rmd
+TRACE [2019-01-28 19:14:04] Processing 2 of 4: C:/Users/dillo/Documents/CytoRSuiteData/data-raw/Compensation.Rmd
+
+TRACE [2019-01-28 19:14:05] 1 data set(s) created by Compensation.Rmd
+TRACE [2019-01-28 19:14:06] Processing 3 of 4: C:/Users/dillo/Documents/CytoRSuiteData/data-raw/Activation.Rmd
+
+TRACE [2019-01-28 19:14:08] 1 data set(s) created by Activation.Rmd
+TRACE [2019-01-28 19:14:11] Processing 4 of 4: C:/Users/dillo/Documents/CytoRSuiteData/data-raw/Compensation-gatingTemplate.Rmd
+
+TRACE [2019-01-28 19:14:12] 1 data set(s) created by Compensation-gatingTemplate.Rmd
+TRACE [2019-01-28 19:14:13] NEWS.md file found, updating!
+WARN [2019-01-28 19:14:13] Activation has changed.
+WARN [2019-01-28 19:14:13] Activation_gatingTemplate has changed.
+WARN [2019-01-28 19:14:13] Compensation has changed.
+WARN [2019-01-28 19:14:13] Compensation_gatingTemplate has changed.
+WARN [2019-01-28 19:14:13] Activation has changed.
+WARN [2019-01-28 19:14:13] Activation_gatingTemplate has changed.
+WARN [2019-01-28 19:14:13] Compensation has changed.
+WARN [2019-01-28 19:14:13] Compensation_gatingTemplate has changed.
+WARN [2019-01-28 19:14:13] Activation has changed.
+WARN [2019-01-28 19:14:13] Activation_gatingTemplate has changed.
+WARN [2019-01-28 19:14:13] Compensation has changed.
+WARN [2019-01-28 19:14:13] Compensation_gatingTemplate has changed.
+TRACE [2019-01-28 19:14:13] NEWS.md file found, updating!
+TRACE [2019-01-28 19:16:23] NEWS.md file found, updating!
+TRACE [2019-01-28 19:16:23] Data has been updated and DataVersion string incremented automatically to 0.1.36
+TRACE [2019-01-28 19:16:23] Saving to data
+TRACE [2019-01-28 19:16:28] Copied documentation to C:/Users/dillo/Documents/CytoRSuiteData/R/CytoRSuiteData.R
+TRACE [2019-01-28 19:16:30] Done
+TRACE [2019-01-28 19:16:30] DataPackageR succeeded
+TRACE [2019-01-28 19:16:30] Building documentation
+TRACE [2019-01-28 19:16:32] Building package
