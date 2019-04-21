@@ -3,21 +3,23 @@
 \docType{data}
 \name{Compensation}
 \alias{Compensation}
-\title{CytoRSuite Compensation Dataset.}
-\format{A \code{flowSet} containing the 6 compensation controls.}
+\title{CytoRSuite Compensation Data Set.}
+\format{A \code{flowSet} containing the 7 compensation controls.}
 \source{
-Some compensation controls from an experiment.
+Compensation controls used for an in vitro OT-I/II T cell activation
+assay.
 }
 \description{
 A collection of single stain compensation controls and an
-unstained control used in CytoRSuite for testing and demonstration
-purposes.
+unstained control used to compensate the Activation data set.
 }
 \details{
 Compensation controls are as follows: \itemize{
-\item{\strong{7AAD.fcs}} \item{\strong{AF-430.fcs}}
-\item{\strong{APC-Cy7.fcs}} \item{\strong{NIL.fcs}{  (Unstained)}}
-\item{\strong{PE-Cy7.fcs}} \item{\strong{PE.fcs}} }
+\item{\strong{Compensation-7AAD.fcs}}
+\item{\strong{Compensation-AF700.fcs}} \item{\strong{Compensation-APC.fcs}}
+\item{\strong{Compensation-APC-Cy7.fcs}}
+\item{\strong{Compensation-FITC.fcs}} \item{\strong{Compensation-PE.fcs}}
+\item{\strong{Compensation-Unstained.fcs}}}
 }
 \seealso{
 \link{CytoRSuiteData}

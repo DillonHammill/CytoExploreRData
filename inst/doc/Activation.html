@@ -256,9 +256,7 @@ h6 {
 </style>
 
 
-</head>
 
-<body>
 
 <style type="text/css">
 .main-container {
@@ -289,8 +287,6 @@ summary {
 </style>
 
 
-
-<div class="container-fluid main-container">
 
 <!-- tabsets -->
 
@@ -365,21 +361,30 @@ $(document).ready(function () {
 
 
 
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
+
+
+
 
 <div class="fluid-row" id="header">
 
 
 
 <h1 class="title toc-ignore">Process Activation fcs files into flowSet.</h1>
-<h4 class="author"><em>Dillon Hammill</em></h4>
-<h4 class="date"><em>January 18, 2019</em></h4>
+<h4 class="author">Dillon Hammill</h4>
+<h4 class="date">January 18, 2019</h4>
 
 </div>
 
 
 <pre class="r"><code>library(DataPackageR)
 library(CytoRSuite)
-Activation &lt;- read.flowSet(path = DataPackageR::project_extdata_path('Activation'))</code></pre>
+Activation &lt;- read.flowSet(path = DataPackageR::project_extdata_path(&#39;Activation&#39;))</code></pre>
 
 
 

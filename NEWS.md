@@ -1,3 +1,37 @@
+DataVersion: 0.1.42
+=======================
+* Changed: Activation
+* Changed: Compensation
+
+
+DataVersion: 0.1.41
+=======================
+* Changed: Activation
+* Changed: Compensation
+
+
+DataVersion: 0.1.40
+=======================
+* Changed: Activation
+* Changed: Compensation
+Update compensation dataset and gatingTemplate.
+
+DataVersion: 0.1.39
+=======================
+* Changed: Activation
+* Changed: Compensation
+
+
+DataVersion: 0.1.38
+=======================
+* Changed: Activation
+* Changed: Compensation
+Updsate documentation for Activation dataset
+
+DataVersion: 0.1.37
+=======================
+Update CytoRSuiteData to include more Activation files and experiment details.
+
 DataVersion: 0.1.36
 =======================
 Name change to Compensation-Channels.csv

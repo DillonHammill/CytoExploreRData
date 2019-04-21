@@ -10,11 +10,11 @@
 Cells}} \item{\strong{CD4 T Cells}} \item{\strong{CD8 T Cells}}
 \item{\strong{CD69+ CD4 T Cells}} \item{\strong{CD69+ CD8 T Cells}} }}
 \source{
-The Activation_gatingTemplate was generated using CytoRSuite and the
-Activation dataset.
+The Activation_gatingTemplate was generated using CytoRSuite to
+analyse Activation data set.
 }
 \description{
-CytoRSuite gatingTemplate used to gate the Activation dataset.
+CytoRSuite gatingTemplate used to gate the Activation data set.
 }
 \seealso{
 \link{CytoRSuiteData}

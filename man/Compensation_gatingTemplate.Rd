@@ -3,14 +3,17 @@
 \docType{data}
 \name{Compensation_gatingTemplate}
 \alias{Compensation_gatingTemplate}
-\title{CytoRSuite gatingTemplate used gate the Compensation dataset.}
-\format{a \code{gatingTemplate} containing the following 2 gates: \itemize{
-\item{\strong{Cells}} \item{\strong{Single Cells}}}}
+\title{CytoRSuite gatingTemplate used gate the Compensation data set.}
+\format{a \code{gatingTemplate} containing the following 3 gates: \itemize{
+\item{\strong{nonDebris}} \item{\strong{Cells}} \ item{\strong{Single
+Cells}}}}
 \source{
-Some compensation controls from an experiment.
+The compensation gatingTemplate was generated using CytoRSuite to
+gate the compensation controls prior to claculation of fluorescent
+spillover.
 }
 \description{
-A gatingTemplate used to gate the Compensation dataset prior to
+A gatingTemplate used to gate the Compensation data set prior to
 spillover calculation.
 }
 \seealso{

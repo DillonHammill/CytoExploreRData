@@ -7,5 +7,5 @@ output_format: html_document
 ```{r}
 library(DataPackageR)
 library(CytoRSuite)
-Compensation <- read.flowSet(path = DataPackageR::project_extdata_path('Compensation-Controls'), pattern = ".fcs")
+Compensation <- read.flowSet(path = DataPackageR::project_extdata_path('Compensation'), pattern = ".fcs")
 ```
