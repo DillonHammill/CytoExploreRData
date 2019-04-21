@@ -1,3 +1,13 @@
+DataVersion: 0.1.44
+=======================
+* Changed: Compensation
+Fix order in Activation and add experiment details.
+
+DataVersion: 0.1.43
+=======================
+* Changed: Compensation
+Activation file name changes.
+
 DataVersion: 0.1.42
 =======================
 * Changed: Activation

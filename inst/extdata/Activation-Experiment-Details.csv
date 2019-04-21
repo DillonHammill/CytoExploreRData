@@ -1,33 +1,33 @@
-"name","OVA_Conc","Treatment"
-"Samples_170518 Exp 21 OT-II Activation_001_001.fcs",0,"Stim-A"
-"Samples_170518 Exp 21 OT-II Activation_009_009.fcs",0,"Stim-A"
-"Samples_170518 Exp 21 OT-II Activation_025_025.fcs",0.005,"Stim-A"
-"Samples_170518 Exp 21 OT-II Activation_033_033.fcs",0.005,"Stim-A"
-"Samples_170518 Exp 21 OT-II Activation_049_049.fcs",0.05,"Stim-A"
-"Samples_170518 Exp 21 OT-II Activation_057_057.fcs",0.05,"Stim-A"
-"Samples_170518 Exp 21 OT-II Activation_073_073.fcs",0.5,"Stim-A"
-"Samples_170518 Exp 21 OT-II Activation_081_081.fcs",0.5,"Stim-A"
-"Samples_170518 Exp 21 OT-II Activation_005_005.fcs",0,"Stim-B"
-"Samples_170518 Exp 21 OT-II Activation_013_013.fcs",0,"Stim-B"
-"Samples_170518 Exp 21 OT-II Activation_029_029.fcs",0.005,"Stim-B"
-"Samples_170518 Exp 21 OT-II Activation_037_037.fcs",0.005,"Stim-B"
-"Samples_170518 Exp 21 OT-II Activation_053_053.fcs",0.05,"Stim-B"
-"Samples_170518 Exp 21 OT-II Activation_061_061.fcs",0.05,"Stim-B"
-"Samples_170518 Exp 21 OT-II Activation_077_077.fcs",0.5,"Stim-B"
-"Samples_170518 Exp 21 OT-II Activation_085_085.fcs",0.5,"Stim-B"
-"Samples_170518 Exp 21 OT-II Activation_004_004.fcs",0,"Stim-C"
-"Samples_170518 Exp 21 OT-II Activation_012_012.fcs",0,"Stim-C"
-"Samples_170518 Exp 21 OT-II Activation_028_028.fcs",0.005,"Stim-C"
-"Samples_170518 Exp 21 OT-II Activation_036_036.fcs",0.005,"Stim-C"
-"Samples_170518 Exp 21 OT-II Activation_052_052.fcs",0.05,"Stim-C"
-"Samples_170518 Exp 21 OT-II Activation_060_060.fcs",0.05,"Stim-C"
-"Samples_170518 Exp 21 OT-II Activation_076_076.fcs",0.5,"Stim-C"
-"Samples_170518 Exp 21 OT-II Activation_084_084.fcs",0.5,"Stim-C"
-"Samples_170518 Exp 21 OT-II Activation_007_007.fcs",0,"Stim-D"
-"Samples_170518 Exp 21 OT-II Activation_015_015.fcs",0,"Stim-D"
-"Samples_170518 Exp 21 OT-II Activation_031_031.fcs",0.005,"Stim-D"
-"Samples_170518 Exp 21 OT-II Activation_039_039.fcs",0.005,"Stim-D"
-"Samples_170518 Exp 21 OT-II Activation_055_055.fcs",0.05,"Stim-D"
-"Samples_170518 Exp 21 OT-II Activation_063_063.fcs",0.05,"Stim-D"
-"Samples_170518 Exp 21 OT-II Activation_087_087.fcs",0.5,"Stim-D"
-"Samples_170518 Exp 21 OT-II Activation_095_095.fcs",0.5,"Stim-D"
+name,OVA_Conc,Treatment
+Activation_1.fcs,0,Stim-A
+Activation_2.fcs,0,Stim-A
+Activation_3.fcs,0.005,Stim-A
+Activation_4.fcs,0.005,Stim-A
+Activation_5.fcs,0.05,Stim-A
+Activation_6.fcs,0.05,Stim-A
+Activation_7.fcs,0.5,Stim-A
+Activation_8.fcs,0.5,Stim-A
+Activation_9.fcs,0,Stim-B
+Activation_10.fcs,0,Stim-B
+Activation_11.fcs,0.005,Stim-B
+Activation_12.fcs,0.005,Stim-B
+Activation_13.fcs,0.05,Stim-B
+Activation_14.fcs,0.05,Stim-B
+Activation_15.fcs,0.5,Stim-B
+Activation_16.fcs,0.5,Stim-B
+Activation_17.fcs,0,Stim-C
+Activation_18.fcs,0,Stim-C
+Activation_19.fcs,0.005,Stim-C
+Activation_20.fcs,0.005,Stim-C
+Activation_21.fcs,0.05,Stim-C
+Activation_22.fcs,0.05,Stim-C
+Activation_23.fcs,0.5,Stim-C
+Activation_24.fcs,0.5,Stim-C
+Activation_25.fcs,0,Stim-D
+Activation_26.fcs,0,Stim-D
+Activation_27.fcs,0.005,Stim-D
+Activation_28.fcs,0.005,Stim-D
+Activation_29.fcs,0.05,Stim-D
+Activation_30.fcs,0.05,Stim-D
+Activation_31.fcs,0.5,Stim-D
+Activation_32.fcs,0.5,Stim-D
