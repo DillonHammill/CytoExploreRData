@@ -1,3 +1,9 @@
+DataVersion: 0.1.46
+=======================
+* Changed: Activation
+* Changed: Compensation
+
+
 DataVersion: 0.1.45
 =======================
 * Changed: Compensation

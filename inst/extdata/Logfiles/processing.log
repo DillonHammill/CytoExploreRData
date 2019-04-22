@@ -1413,3 +1413,38 @@ TRACE [2019-04-22 10:07:55] DataPackageR succeeded
 TRACE [2019-04-22 10:07:55] Building documentation
 TRACE [2019-04-22 10:08:03] Building package
 TRACE [2019-04-22 10:10:00] Rebuilding data package documentation.
+TRACE [2019-04-22 10:30:01] Logging to C:/Users/u5351933/Documents/CytoRSuiteData/inst/extdata/Logfiles/processing.log
+TRACE [2019-04-22 10:30:01] Processing data
+TRACE [2019-04-22 10:30:01] Reading yaml configuration
+TRACE [2019-04-22 10:30:01] Found C:/Users/u5351933/Documents/CytoRSuiteData/data-raw/Activation-gatingTemplate.Rmd
+TRACE [2019-04-22 10:30:01] Found C:/Users/u5351933/Documents/CytoRSuiteData/data-raw/Compensation.Rmd
+TRACE [2019-04-22 10:30:01] Found C:/Users/u5351933/Documents/CytoRSuiteData/data-raw/Activation.Rmd
+TRACE [2019-04-22 10:30:01] Found C:/Users/u5351933/Documents/CytoRSuiteData/data-raw/Compensation-gatingTemplate.Rmd
+TRACE [2019-04-22 10:30:01] Processing 1 of 4: C:/Users/u5351933/Documents/CytoRSuiteData/data-raw/Activation-gatingTemplate.Rmd
+
+TRACE [2019-04-22 10:30:10] 1 data set(s) created by Activation-gatingTemplate.Rmd
+TRACE [2019-04-22 10:30:10] Processing 2 of 4: C:/Users/u5351933/Documents/CytoRSuiteData/data-raw/Compensation.Rmd
+
+TRACE [2019-04-22 10:30:14] 1 data set(s) created by Compensation.Rmd
+TRACE [2019-04-22 10:30:21] Processing 3 of 4: C:/Users/u5351933/Documents/CytoRSuiteData/data-raw/Activation.Rmd
+
+TRACE [2019-04-22 10:30:26] 1 data set(s) created by Activation.Rmd
+TRACE [2019-04-22 10:30:49] Processing 4 of 4: C:/Users/u5351933/Documents/CytoRSuiteData/data-raw/Compensation-gatingTemplate.Rmd
+
+TRACE [2019-04-22 10:30:50] 1 data set(s) created by Compensation-gatingTemplate.Rmd
+TRACE [2019-04-22 10:30:55] NEWS.md file found, updating!
+WARN [2019-04-22 10:30:55] Activation_gatingTemplate has changed.
+WARN [2019-04-22 10:30:55] Compensation_gatingTemplate has changed.
+WARN [2019-04-22 10:30:55] Activation_gatingTemplate has changed.
+WARN [2019-04-22 10:30:55] Compensation_gatingTemplate has changed.
+WARN [2019-04-22 10:30:55] Activation_gatingTemplate has changed.
+WARN [2019-04-22 10:30:55] Compensation_gatingTemplate has changed.
+TRACE [2019-04-22 10:30:55] NEWS.md file found, updating!
+TRACE [2019-04-22 10:30:57] NEWS.md file found, updating!
+TRACE [2019-04-22 10:30:57] Data has been updated and DataVersion string incremented automatically to 0.1.46
+TRACE [2019-04-22 10:30:57] Saving to data
+TRACE [2019-04-22 10:31:36] Copied documentation to C:/Users/u5351933/Documents/CytoRSuiteData/R/CytoRSuiteData.R
+TRACE [2019-04-22 10:31:42] Done
+TRACE [2019-04-22 10:31:42] DataPackageR succeeded
+TRACE [2019-04-22 10:31:42] Building documentation
+TRACE [2019-04-22 10:31:52] Building package
