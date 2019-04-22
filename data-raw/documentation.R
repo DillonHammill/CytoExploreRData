@@ -66,9 +66,11 @@ NULL
 #' @description Data from an in vitro OT-I/II T cell activation assay.
 #' @name Activation
 #' @docType data
-#' @format a \code{flowSet} containing 32 samples with 4 OVA concentrations
+#' @format a \code{flowSet} containing 33 samples with 4 OVA concentrations
 #'   (0,0.005,0.05 and 0.5) and 4 distinct treatments
-#'   ("Stim-A","Stim-B","Stim-C" and "Stim-D") in duplicate.
+#'   ("Stim-A","Stim-B","Stim-C" and "Stim-D") in duplicate. The last sample is
+#'   a universal unstained control which can be used to aid in setting
+#'   appropriate gates.
 #' @details \describe{ An experiment performed to assess the in vitro activation
 #'   of OT-I and OT-II transgenic T cells co-cultured with OVA-presenting
 #'   dendritic cells (DCs). This data set is comprised of 32 samples saved as a

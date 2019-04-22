@@ -10,7 +10,9 @@ library(CytoRSuite)
 Activation <- read.flowSet(path = DataPackageR::project_extdata_path('Activation'))
 
 # Fix order
-Activation <- Activation[c(1,12,23,27,28,29,30,31,32,2,3,4,5,6,7,8,9,10,11,13,14,15,16,17,18,19,20,21,22,24,25,26)]
+Activation <- Activation[c(1,12,23,28,29,30,31,32,33,2,3,4,5,6,7,8,9,10,11,13,14,15,16,17,18,19,20,21,22,24,25,26,27)]
+
+sampleNames(Activation)
 
 # Markers
 chnls <- c("Alexa Fluor 405-A", 
@@ -32,7 +34,7 @@ names(markers) <- chnls
 markernames(Activation) <- markers
 
 # Experimental Details
-pData(Activation)$OVAConc <- rep(c(0,0,0.005,0.005,0.05,0.05,0.5,0.5),4)
-pData(Activation)$Treatment <- c(rep("Stim-A", 8),rep("Stim-B",8),rep("Stim-C",8),rep("Stim-D",8))
-pData(Activation)$Treatment <- factor(pData(Activation)$Treatment, levels = c("Stim-A","Stim-B","Stim-C","Stim-D"))
+pData(Activation)$OVAConc <- c(rep(c(0,0,0.005,0.005,0.05,0.05,0.5,0.5),4),NA)
+pData(Activation)$Treatment <- c(rep("Stim-A", 8),rep("Stim-B",8),rep("Stim-C",8),rep("Stim-D",8),NA)
+pData(Activation)$Treatment <- factor(pData(Activation)$Treatment, levels = c("Stim-A","Stim-B","Stim-C","Stim-D",NA))
 ```
