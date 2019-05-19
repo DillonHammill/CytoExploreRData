@@ -421,9 +421,9 @@ names(markers) &lt;- chnls
 markernames(Activation) &lt;- markers
 
 # Experimental Details
-pData(Activation)$OVAConc &lt;- c(rep(c(0,0,0.005,0.005,0.05,0.05,0.5,0.5),4),NA)
-pData(Activation)$Treatment &lt;- c(rep(&quot;Stim-A&quot;, 8),rep(&quot;Stim-B&quot;,8),rep(&quot;Stim-C&quot;,8),rep(&quot;Stim-D&quot;,8),NA)
-pData(Activation)$Treatment &lt;- factor(pData(Activation)$Treatment, levels = c(&quot;Stim-A&quot;,&quot;Stim-B&quot;,&quot;Stim-C&quot;,&quot;Stim-D&quot;,NA))</code></pre>
+pData(Activation)$OVAConc &lt;- c(rep(c(0,0,0.005,0.005,0.05,0.05,0.5,0.5),4),0)
+pData(Activation)$Treatment &lt;- c(rep(&quot;Stim-A&quot;, 8),rep(&quot;Stim-B&quot;,8),rep(&quot;Stim-C&quot;,8),rep(&quot;Stim-D&quot;,8),&quot;NA&quot;)
+pData(Activation)$Treatment &lt;- factor(pData(Activation)$Treatment, levels = c(&quot;Stim-A&quot;,&quot;Stim-B&quot;,&quot;Stim-C&quot;,&quot;Stim-D&quot;,&quot;NA&quot;))</code></pre>
 
 
 

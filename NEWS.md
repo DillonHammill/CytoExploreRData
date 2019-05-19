@@ -1,3 +1,8 @@
+DataVersion: 0.1.47
+=======================
+* Changed: Compensation
+Correct experiment details in Activation.
+
 DataVersion: 0.1.46
 =======================
 * Changed: Activation

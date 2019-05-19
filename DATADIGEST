@@ -1,5 +1,6 @@
-DataVersion: 0.1.46
-Activation: 231de366e0da26ec6aca9aa9487b2bc6
-Activation_gatingTemplate: c891074c390d00314a46d000800bfcb1
+DataVersion: 0.1.47
+Activation: 9b665987a9419c94e936e21230a5af67
+Activation_gatingTemplate: 11ab15f94deb58aafe260805f8acd03c
 Compensation: 6bfdcbde1fc0868776c7946bc3703974
-Compensation_gatingTemplate: c58f943c79009966abfb4dd9f806821f
+Compensation_gatingTemplate:
+      1cb6d0edccb8accf388a9eeac4fe1dc9

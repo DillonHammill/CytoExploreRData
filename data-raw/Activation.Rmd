@@ -34,7 +34,7 @@ names(markers) <- chnls
 markernames(Activation) <- markers
 
 # Experimental Details
-pData(Activation)$OVAConc <- c(rep(c(0,0,0.005,0.005,0.05,0.05,0.5,0.5),4),NA)
-pData(Activation)$Treatment <- c(rep("Stim-A", 8),rep("Stim-B",8),rep("Stim-C",8),rep("Stim-D",8),NA)
-pData(Activation)$Treatment <- factor(pData(Activation)$Treatment, levels = c("Stim-A","Stim-B","Stim-C","Stim-D",NA))
+pData(Activation)$OVAConc <- c(rep(c(0,0,0.005,0.005,0.05,0.05,0.5,0.5),4),0)
+pData(Activation)$Treatment <- c(rep("Stim-A", 8),rep("Stim-B",8),rep("Stim-C",8),rep("Stim-D",8),"NA")
+pData(Activation)$Treatment <- factor(pData(Activation)$Treatment, levels = c("Stim-A","Stim-B","Stim-C","Stim-D","NA"))
 ```
