@@ -1,3 +1,15 @@
+DataVersion: 0.1.49
+=======================
+* Changed: Activation
+* Changed: Compensation
+Update Compensation gatingTemplate.
+
+DataVersion: 0.1.48
+=======================
+* Changed: Activation
+* Changed: Compensation
+Update Activation gatingTemplate.
+
 DataVersion: 0.1.47
 =======================
 * Changed: Compensation
