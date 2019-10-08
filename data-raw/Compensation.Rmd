@@ -6,6 +6,6 @@ output_format: html_document
 ---
 ```{r}
 library(DataPackageR)
-library(CytoRSuite)
+library(CytoExploreR)
 Compensation <- read.flowSet(path = DataPackageR::project_extdata_path('Compensation'), pattern = ".fcs")
 ```

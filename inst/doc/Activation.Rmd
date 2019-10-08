@@ -11,7 +11,7 @@ vignette: >
 
 ```{r}
 library(DataPackageR)
-library(CytoRSuite)
+library(CytoExploreR)
 Activation <- read.flowSet(path = DataPackageR::project_extdata_path('Activation'))
 
 # Fix order

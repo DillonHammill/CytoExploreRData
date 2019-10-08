@@ -11,6 +11,6 @@ vignette: >
 
 ```{r}
 library(DataPackageR)
-library(CytoRSuite)
+library(CytoExploreR)
 Compensation_gatingTemplate <- gatingTemplate(DataPackageR::project_extdata_path('Compensation-gatingTemplate.csv'))
 ```

@@ -6,6 +6,6 @@ output_format: html_document
 ---
 ```{r}
 library(DataPackageR)
-library(CytoRSuite)
+library(CytoExploreR)
 Activation_gatingTemplate <- gatingTemplate(DataPackageR::project_extdata_path('Activation-gatingTemplate.csv'))
 ```

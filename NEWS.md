@@ -1,3 +1,7 @@
+DataVersion: 0.1.50
+=======================
+CytoExploreR name changes.
+
 DataVersion: 0.1.49
 =======================
 * Changed: Activation

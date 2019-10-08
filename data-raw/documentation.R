@@ -1,11 +1,11 @@
-#' CytoRSuiteData
-#' A data package for CytoRSuiteData.
+#' CytoExploreRData
+#' A data package for CytoExploreRData.
 #' @docType package
-#' @aliases CytoRSuiteData-package
+#' @aliases CytoExploreRData-package
 #' @title Package Title
-#' @name CytoRSuiteData
+#' @name CytoExploreRData
 #' @description A description of the data package
-#' @details Use \code{data(package='CytoRSuiteData')$results[, 3]} to see a list of available data sets in this data package
+#' @details Use \code{data(package='CytoExploreRData')$results[, 3]} to see a list of available data sets in this data package
 #'     and/or DataPackageR::load_all
 #' _datasets() to load them.
 #' @seealso
@@ -17,18 +17,18 @@ NULL
 
 
 
-#' CytoRSuite gatingTemplate used to gate the Activation data set.
+#' CytoExploreR gatingTemplate used to gate the Activation data set.
 #' @name Activation_gatingTemplate
 #' @docType data
-#' @title CytoRSuite Activation gatingTemplate.
+#' @title CytoExploreR Activation gatingTemplate.
 #' @format a \code{gatingTemplate} object containing the following 9 gates:
 #'   \itemize{ \item{\strong{Cells}} \item{\strong{Single Cells}}
 #'   \item{\strong{Live Cells}} \item{\strong{T Cells}} \item{\strong{Dendritic
 #'   Cells}} \item{\strong{CD4 T Cells}} \item{\strong{CD8 T Cells}}
 #'   \item{\strong{CD69+ CD4 T Cells}} \item{\strong{CD69+ CD8 T Cells}} }
-#' @source The Activation_gatingTemplate was generated using CytoRSuite to
+#' @source The Activation_gatingTemplate was generated using CytoExploreR to
 #'   analyse Activation data set.
-#' @seealso \link{CytoRSuiteData}
+#' @seealso \link{CytoExploreRData}
 #' @seealso \link{Compensation}
 #' @seealso \link{Activation}
 #' @author Dillon Hammill (Dillon.Hammill@anu.edu.au)
@@ -39,7 +39,7 @@ NULL
 
 
 
-#' @title CytoRSuite Compensation Data Set.
+#' @title CytoExploreR Compensation Data Set.
 #' @description A collection of single stain compensation controls and an
 #'   unstained control used to compensate the Activation data set.
 #' @name Compensation
@@ -53,7 +53,7 @@ NULL
 #'   \item{\strong{Compensation-Unstained.fcs}}}
 #' @source Compensation controls used for an in vitro OT-I/II T cell activation
 #'   assay.
-#' @seealso \link{CytoRSuiteData}
+#' @seealso \link{CytoExploreRData}
 #' @seealso \link{Activation}
 #' @seealso \link{Activation_gatingTemplate}
 #' @author Dillon Hammill (Dillon.Hammill@anu.edu.au)
@@ -62,7 +62,7 @@ NULL
 
 
 
-#' @title CytoRSuite Activation Data Set
+#' @title CytoExploreR Activation Data Set
 #' @description Data from an in vitro OT-I/II T cell activation assay.
 #' @name Activation
 #' @docType data
@@ -89,7 +89,7 @@ NULL
 #'   (Alexa Fluor 647-A).} \item{\strong{CD69-PerCP Cy5.5} to assess the extent
 #'   of T cell activation (7-AAD-A).} }}
 #' @source The data comes from an in vitro OT-I/II T cell activation assay.
-#' @seealso \link{CytoRSuiteData}
+#' @seealso \link{CytoExploreRData}
 #' @seealso \link{Compensation}
 #' @seealso \link{Activation_gatingTemplate}
 #' @author Dillon Hammill (Dillon.Hammill@anu.edu.au)
@@ -98,7 +98,7 @@ NULL
 
 
 
-#' @title CytoRSuite gatingTemplate used gate the Compensation data set.
+#' @title CytoExploreR gatingTemplate used gate the Compensation data set.
 #' @description A gatingTemplate used to gate the Compensation data set prior to
 #'   spillover calculation.
 #' @name Compensation_gatingTemplate
@@ -107,10 +107,10 @@ NULL
 #' @format a \code{gatingTemplate} containing the following 3 gates: \itemize{
 #'   \item{\strong{nonDebris}} \item{\strong{Cells}} \ item{\strong{Single
 #'   Cells}}}
-#' @source The compensation gatingTemplate was generated using CytoRSuite to
+#' @source The compensation gatingTemplate was generated using CytoExploreR to
 #'   gate the compensation controls prior to claculation of fluorescent
 #'   spillover.
-#' @seealso \link{CytoRSuiteData}
+#' @seealso \link{CytoExploreRData}
 #' @seealso \link{Compensation}
 #' @author Dillon Hammill (Dillon.Hammill@anu.edu.au)
 NULL

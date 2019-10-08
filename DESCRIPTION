@@ -1,22 +1,22 @@
-Package: CytoRSuiteData
-Title: Flow Cytometry Data for CytoRSuite
+Package: CytoExploreRData
+Title: Flow Cytometry Data for CytoExploreR
 Version: 1.0
 Authors@R: 
     person(given = "Dillon",
            family = "Hammill",
            role = c("aut", "cre"),
            email = "Dillon.Hammill@anu.edu.au")
-Description: Contains gatingTemplates, example fcs files and compensation controls for use in CytoRSuite.
+Description: Contains gatingTemplates, example fcs files and compensation controls for use in CytoExploreR.
 License: GPL-2
 Encoding: UTF-8
 LazyData: true
-DataVersion: 0.1.49
+DataVersion: 0.1.50
 Roxygen: list(markdown = TRUE)
-Date: 2019-06-10
+Date: 2019-10-08
 Suggests: 
     knitr,
     rmarkdown,
     DataPackageR,
-    CytoRSuite
+    CytoExploreR
 VignetteBuilder: knitr
-RoxygenNote: 6.1.1
+RoxygenNote: 6.1.1.9000
