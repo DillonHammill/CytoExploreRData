@@ -1684,3 +1684,129 @@ TRACE [2019-10-08 14:54:21] Done
 TRACE [2019-10-08 14:54:21] DataPackageR succeeded
 TRACE [2019-10-08 14:54:21] Building documentation
 TRACE [2019-10-08 14:54:24] Building package
+TRACE [2019-10-08 16:48:05] Logging to C:/Users/u5351933/Documents/CytoExploreRData/inst/extdata/Logfiles/processing.log
+TRACE [2019-10-08 16:48:05] Processing data
+TRACE [2019-10-08 16:48:05] Reading yaml configuration
+TRACE [2019-10-08 16:48:05] Found C:/Users/u5351933/Documents/CytoExploreRData/data-raw/Activation-gatingTemplate.Rmd
+TRACE [2019-10-08 16:48:05] Found C:/Users/u5351933/Documents/CytoExploreRData/data-raw/Compensation.Rmd
+TRACE [2019-10-08 16:48:05] Found C:/Users/u5351933/Documents/CytoExploreRData/data-raw/Activation.Rmd
+TRACE [2019-10-08 16:48:05] Found C:/Users/u5351933/Documents/CytoExploreRData/data-raw/Compensation-gatingTemplate.Rmd
+TRACE [2019-10-08 16:48:05] Processing 1 of 4: C:/Users/u5351933/Documents/CytoExploreRData/data-raw/Activation-gatingTemplate.Rmd
+
+TRACE [2019-10-08 16:48:14] 1 data set(s) created by Activation-gatingTemplate.Rmd
+TRACE [2019-10-08 16:48:14] Processing 2 of 4: C:/Users/u5351933/Documents/CytoExploreRData/data-raw/Compensation.Rmd
+
+TRACE [2019-10-08 16:48:17] 1 data set(s) created by Compensation.Rmd
+TRACE [2019-10-08 16:48:22] Processing 3 of 4: C:/Users/u5351933/Documents/CytoExploreRData/data-raw/Activation.Rmd
+
+TRACE [2019-10-08 16:49:12] Logging to C:/Users/u5351933/Documents/CytoExploreRData/inst/extdata/Logfiles/processing.log
+TRACE [2019-10-08 16:49:12] Processing data
+TRACE [2019-10-08 16:49:12] Reading yaml configuration
+TRACE [2019-10-08 16:49:12] Found C:/Users/u5351933/Documents/CytoExploreRData/data-raw/Activation-gatingTemplate.Rmd
+TRACE [2019-10-08 16:49:12] Found C:/Users/u5351933/Documents/CytoExploreRData/data-raw/Compensation.Rmd
+TRACE [2019-10-08 16:49:12] Found C:/Users/u5351933/Documents/CytoExploreRData/data-raw/Activation.Rmd
+TRACE [2019-10-08 16:49:12] Found C:/Users/u5351933/Documents/CytoExploreRData/data-raw/Compensation-gatingTemplate.Rmd
+TRACE [2019-10-08 16:49:12] Processing 1 of 4: C:/Users/u5351933/Documents/CytoExploreRData/data-raw/Activation-gatingTemplate.Rmd
+
+TRACE [2019-10-08 16:49:16] 1 data set(s) created by Activation-gatingTemplate.Rmd
+TRACE [2019-10-08 16:49:16] Processing 2 of 4: C:/Users/u5351933/Documents/CytoExploreRData/data-raw/Compensation.Rmd
+
+TRACE [2019-10-08 16:49:20] 1 data set(s) created by Compensation.Rmd
+TRACE [2019-10-08 16:49:25] Processing 3 of 4: C:/Users/u5351933/Documents/CytoExploreRData/data-raw/Activation.Rmd
+
+TRACE [2019-10-08 16:49:32] 1 data set(s) created by Activation.Rmd
+TRACE [2019-10-08 16:49:56] Processing 4 of 4: C:/Users/u5351933/Documents/CytoExploreRData/data-raw/Compensation-gatingTemplate.Rmd
+
+TRACE [2019-10-08 16:49:58] 1 data set(s) created by Compensation-gatingTemplate.Rmd
+TRACE [2019-10-08 16:50:02] NEWS.md file found, updating!
+WARN [2019-10-08 16:50:02] Activation has changed.
+WARN [2019-10-08 16:50:02] Activation_gatingTemplate has changed.
+WARN [2019-10-08 16:50:02] Compensation_gatingTemplate has changed.
+WARN [2019-10-08 16:50:02] Activation has changed.
+WARN [2019-10-08 16:50:02] Activation_gatingTemplate has changed.
+WARN [2019-10-08 16:50:02] Compensation_gatingTemplate has changed.
+WARN [2019-10-08 16:50:02] Activation has changed.
+WARN [2019-10-08 16:50:02] Activation_gatingTemplate has changed.
+WARN [2019-10-08 16:50:02] Compensation_gatingTemplate has changed.
+TRACE [2019-10-08 16:50:02] NEWS.md file found, updating!
+TRACE [2019-10-08 16:50:26] NEWS.md file found, updating!
+TRACE [2019-10-08 16:50:26] Data has been updated and DataVersion string incremented automatically to 0.1.53
+TRACE [2019-10-08 16:50:26] Saving to data
+TRACE [2019-10-08 16:50:57] Copied documentation to C:/Users/u5351933/Documents/CytoExploreRData/R/CytoExploreRData.R
+TRACE [2019-10-08 16:50:59] Done
+TRACE [2019-10-08 16:50:59] DataPackageR succeeded
+TRACE [2019-10-08 16:50:59] Building documentation
+TRACE [2019-10-08 16:51:04] Building package
+TRACE [2019-10-08 16:54:43] Logging to C:/Users/u5351933/Documents/CytoExploreRData/inst/extdata/Logfiles/processing.log
+TRACE [2019-10-08 16:54:43] Processing data
+TRACE [2019-10-08 16:54:43] Reading yaml configuration
+TRACE [2019-10-08 16:54:43] Found C:/Users/u5351933/Documents/CytoExploreRData/data-raw/Activation-gatingTemplate.Rmd
+TRACE [2019-10-08 16:54:43] Found C:/Users/u5351933/Documents/CytoExploreRData/data-raw/Compensation.Rmd
+TRACE [2019-10-08 16:54:43] Found C:/Users/u5351933/Documents/CytoExploreRData/data-raw/Activation.Rmd
+TRACE [2019-10-08 16:54:43] Found C:/Users/u5351933/Documents/CytoExploreRData/data-raw/Compensation-gatingTemplate.Rmd
+TRACE [2019-10-08 16:54:43] Processing 1 of 4: C:/Users/u5351933/Documents/CytoExploreRData/data-raw/Activation-gatingTemplate.Rmd
+
+TRACE [2019-10-08 16:54:45] 1 data set(s) created by Activation-gatingTemplate.Rmd
+TRACE [2019-10-08 16:54:45] Processing 2 of 4: C:/Users/u5351933/Documents/CytoExploreRData/data-raw/Compensation.Rmd
+
+TRACE [2019-10-08 16:54:48] 1 data set(s) created by Compensation.Rmd
+TRACE [2019-10-08 16:54:54] Processing 3 of 4: C:/Users/u5351933/Documents/CytoExploreRData/data-raw/Activation.Rmd
+
+TRACE [2019-10-08 16:54:59] 1 data set(s) created by Activation.Rmd
+TRACE [2019-10-08 16:55:23] Processing 4 of 4: C:/Users/u5351933/Documents/CytoExploreRData/data-raw/Compensation-gatingTemplate.Rmd
+
+TRACE [2019-10-08 16:55:26] 1 data set(s) created by Compensation-gatingTemplate.Rmd
+TRACE [2019-10-08 16:55:54] Logging to C:/Users/u5351933/Documents/CytoExploreRData/inst/extdata/Logfiles/processing.log
+TRACE [2019-10-08 16:55:54] Processing data
+TRACE [2019-10-08 16:55:54] Reading yaml configuration
+TRACE [2019-10-08 16:55:54] Found C:/Users/u5351933/Documents/CytoExploreRData/data-raw/Activation-gatingTemplate.Rmd
+TRACE [2019-10-08 16:55:54] Found C:/Users/u5351933/Documents/CytoExploreRData/data-raw/Compensation.Rmd
+TRACE [2019-10-08 16:55:54] Found C:/Users/u5351933/Documents/CytoExploreRData/data-raw/Activation.Rmd
+TRACE [2019-10-08 16:55:54] Found C:/Users/u5351933/Documents/CytoExploreRData/data-raw/Compensation-gatingTemplate.Rmd
+TRACE [2019-10-08 16:55:54] Processing 1 of 4: C:/Users/u5351933/Documents/CytoExploreRData/data-raw/Activation-gatingTemplate.Rmd
+
+TRACE [2019-10-08 16:55:57] 1 data set(s) created by Activation-gatingTemplate.Rmd
+TRACE [2019-10-08 16:55:57] Processing 2 of 4: C:/Users/u5351933/Documents/CytoExploreRData/data-raw/Compensation.Rmd
+
+TRACE [2019-10-08 16:56:00] 1 data set(s) created by Compensation.Rmd
+TRACE [2019-10-08 16:56:05] Processing 3 of 4: C:/Users/u5351933/Documents/CytoExploreRData/data-raw/Activation.Rmd
+
+TRACE [2019-10-08 16:56:10] 1 data set(s) created by Activation.Rmd
+TRACE [2019-10-08 16:56:34] Processing 4 of 4: C:/Users/u5351933/Documents/CytoExploreRData/data-raw/Compensation-gatingTemplate.Rmd
+
+TRACE [2019-10-08 16:56:37] 1 data set(s) created by Compensation-gatingTemplate.Rmd
+TRACE [2019-10-08 16:56:51] Logging to C:/Users/u5351933/Documents/CytoExploreRData/inst/extdata/Logfiles/processing.log
+TRACE [2019-10-08 16:56:51] Processing data
+TRACE [2019-10-08 16:56:51] Reading yaml configuration
+TRACE [2019-10-08 16:56:51] Found C:/Users/u5351933/Documents/CytoExploreRData/data-raw/Activation-gatingTemplate.Rmd
+TRACE [2019-10-08 16:56:51] Found C:/Users/u5351933/Documents/CytoExploreRData/data-raw/Compensation.Rmd
+TRACE [2019-10-08 16:56:51] Found C:/Users/u5351933/Documents/CytoExploreRData/data-raw/Activation.Rmd
+TRACE [2019-10-08 16:56:51] Found C:/Users/u5351933/Documents/CytoExploreRData/data-raw/Compensation-gatingTemplate.Rmd
+TRACE [2019-10-08 16:56:51] Processing 1 of 4: C:/Users/u5351933/Documents/CytoExploreRData/data-raw/Activation-gatingTemplate.Rmd
+
+TRACE [2019-10-08 16:56:54] 1 data set(s) created by Activation-gatingTemplate.Rmd
+TRACE [2019-10-08 16:56:54] Processing 2 of 4: C:/Users/u5351933/Documents/CytoExploreRData/data-raw/Compensation.Rmd
+
+TRACE [2019-10-08 16:56:58] 1 data set(s) created by Compensation.Rmd
+TRACE [2019-10-08 16:57:03] Processing 3 of 4: C:/Users/u5351933/Documents/CytoExploreRData/data-raw/Activation.Rmd
+
+TRACE [2019-10-08 16:57:08] 1 data set(s) created by Activation.Rmd
+TRACE [2019-10-08 16:57:33] Processing 4 of 4: C:/Users/u5351933/Documents/CytoExploreRData/data-raw/Compensation-gatingTemplate.Rmd
+
+TRACE [2019-10-08 16:57:35] 1 data set(s) created by Compensation-gatingTemplate.Rmd
+TRACE [2019-10-08 16:57:40] NEWS.md file found, updating!
+WARN [2019-10-08 16:57:40] Activation_gatingTemplate has changed.
+WARN [2019-10-08 16:57:40] Compensation_gatingTemplate has changed.
+WARN [2019-10-08 16:57:40] Activation_gatingTemplate has changed.
+WARN [2019-10-08 16:57:40] Compensation_gatingTemplate has changed.
+WARN [2019-10-08 16:57:40] Activation_gatingTemplate has changed.
+WARN [2019-10-08 16:57:40] Compensation_gatingTemplate has changed.
+TRACE [2019-10-08 16:57:40] NEWS.md file found, updating!
+TRACE [2019-10-08 16:57:42] NEWS.md file found, updating!
+TRACE [2019-10-08 16:57:42] Data has been updated and DataVersion string incremented automatically to 0.1.54
+TRACE [2019-10-08 16:57:42] Saving to data
+TRACE [2019-10-08 16:58:13] Copied documentation to C:/Users/u5351933/Documents/CytoExploreRData/R/CytoExploreRData.R
+TRACE [2019-10-08 16:58:13] Done
+TRACE [2019-10-08 16:58:13] DataPackageR succeeded
+TRACE [2019-10-08 16:58:13] Building documentation
+TRACE [2019-10-08 16:58:19] Building package

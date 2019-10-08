@@ -384,61 +384,12 @@ $(document).ready(function () {
 
 <pre class="r"><code>library(DataPackageR)
 library(CytoExploreR)
-Activation &lt;- cyto_load(path = DataPackageR::project_extdata_path(&#39;Activation&#39;))</code></pre>
-<pre><code>## All FCS files have the same following channels:
-## FSC-A
-## FSC-H
-## FSC-W
-## SSC-A
-## SSC-H
-## SSC-W
-## Alexa Fluor 488-A
-## PE-A
-## PE-Texas Red-A
-## 7-AAD-A
-## PE-Cy7-A
-## Alexa Fluor 405-A
-## Alexa Fluor 430-A
-## Qdot 605-A
-## Alexa Fluor 647-A
-## Alexa Fluor 700-A
-## APC-Cy7-A
-## Time</code></pre>
-<pre><code>## write Activation_1.fcs to empty cdf slot...</code></pre>
-<pre><code>## write Activation_10.fcs to empty cdf slot...</code></pre>
-<pre><code>## write Activation_11.fcs to empty cdf slot...</code></pre>
-<pre><code>## write Activation_12.fcs to empty cdf slot...</code></pre>
-<pre><code>## write Activation_13.fcs to empty cdf slot...</code></pre>
-<pre><code>## write Activation_14.fcs to empty cdf slot...</code></pre>
-<pre><code>## write Activation_15.fcs to empty cdf slot...</code></pre>
-<pre><code>## write Activation_16.fcs to empty cdf slot...</code></pre>
-<pre><code>## write Activation_17.fcs to empty cdf slot...</code></pre>
-<pre><code>## write Activation_18.fcs to empty cdf slot...</code></pre>
-<pre><code>## write Activation_19.fcs to empty cdf slot...</code></pre>
-<pre><code>## write Activation_2.fcs to empty cdf slot...</code></pre>
-<pre><code>## write Activation_20.fcs to empty cdf slot...</code></pre>
-<pre><code>## write Activation_21.fcs to empty cdf slot...</code></pre>
-<pre><code>## write Activation_22.fcs to empty cdf slot...</code></pre>
-<pre><code>## write Activation_23.fcs to empty cdf slot...</code></pre>
-<pre><code>## write Activation_24.fcs to empty cdf slot...</code></pre>
-<pre><code>## write Activation_25.fcs to empty cdf slot...</code></pre>
-<pre><code>## write Activation_26.fcs to empty cdf slot...</code></pre>
-<pre><code>## write Activation_27.fcs to empty cdf slot...</code></pre>
-<pre><code>## write Activation_28.fcs to empty cdf slot...</code></pre>
-<pre><code>## write Activation_29.fcs to empty cdf slot...</code></pre>
-<pre><code>## write Activation_3.fcs to empty cdf slot...</code></pre>
-<pre><code>## write Activation_30.fcs to empty cdf slot...</code></pre>
-<pre><code>## write Activation_31.fcs to empty cdf slot...</code></pre>
-<pre><code>## write Activation_32.fcs to empty cdf slot...</code></pre>
-<pre><code>## write Activation_33.fcs to empty cdf slot...</code></pre>
-<pre><code>## write Activation_4.fcs to empty cdf slot...</code></pre>
-<pre><code>## write Activation_5.fcs to empty cdf slot...</code></pre>
-<pre><code>## write Activation_6.fcs to empty cdf slot...</code></pre>
-<pre><code>## write Activation_7.fcs to empty cdf slot...</code></pre>
-<pre><code>## write Activation_8.fcs to empty cdf slot...</code></pre>
-<pre><code>## write Activation_9.fcs to empty cdf slot...</code></pre>
-<pre><code>## done!</code></pre>
-<pre class="r"><code># Markers
+library(gtools)
+files &lt;- mixedsort(list.files(path = DataPackageR::project_extdata_path(&#39;Activation&#39;),
+                              full.names = TRUE))
+Activation &lt;- read.flowSet(files = files)
+
+# Markers
 chnls &lt;- c(&quot;Alexa Fluor 405-A&quot;, 
            &quot;Alexa Fluor 430-A&quot;, 
            &quot;APC-Cy7-A&quot;, &quot;PE-A&quot;, 

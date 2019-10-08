@@ -7,7 +7,10 @@ output_format: html_document
 ```{r}
 library(DataPackageR)
 library(CytoExploreR)
-Activation <- cyto_load(path = DataPackageR::project_extdata_path('Activation'))
+library(gtools)
+files <- mixedsort(list.files(path = DataPackageR::project_extdata_path('Activation'),
+                              full.names = TRUE))
+Activation <- read.flowSet(files = files)
 
 # Markers
 chnls <- c("Alexa Fluor 405-A", 
