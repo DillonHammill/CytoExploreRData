@@ -1,3 +1,13 @@
+DataVersion: 0.1.52
+=======================
+* Changed: Compensation
+Update Activation files to remove old filenames.
+
+DataVersion: 0.1.51
+=======================
+* Changed: Compensation
+Automatically correct file order using gtools mixedsort.
+
 DataVersion: 0.1.50
 =======================
 CytoExploreR name changes.
