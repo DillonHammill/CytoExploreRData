@@ -1,3 +1,7 @@
+DataVersion: 0.1.55
+=======================
+Update spill slots of Activation and Compensation gatingTemplate.
+
 DataVersion: 0.1.54
 =======================
 * Changed: Activation

@@ -7,6 +7,7 @@
 <meta charset="utf-8" />
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
 
 
 <meta name="author" content="Dillon Hammill" />
@@ -270,7 +271,6 @@ code {
 }
 img {
   max-width:100%;
-  height: auto;
 }
 .tabbed-pane {
   padding-top: 12px;
@@ -344,18 +344,6 @@ summary {
 }
 </style>
 
-<script>
-$(document).ready(function () {
-  window.buildTabsets("TOC");
-});
-
-$(document).ready(function () {
-  $('.tabset-dropdown > .nav-tabs > li').click(function () {
-    $(this).parent().toggleClass('nav-tabs-open')
-  });
-});
-</script>
-
 <!-- code folding -->
 
 
@@ -383,8 +371,14 @@ $(document).ready(function () {
 
 
 <pre class="r"><code>library(DataPackageR)
-library(CytoExploreR)
-Activation_gatingTemplate &lt;- gatingTemplate(DataPackageR::project_extdata_path(&#39;Activation-gatingTemplate.csv&#39;))</code></pre>
+library(CytoExploreR)</code></pre>
+<pre><code>## Loading required package: flowCore</code></pre>
+<pre><code>## Loading required package: flowWorkspace</code></pre>
+<pre><code>## Loading required package: openCyto</code></pre>
+<pre><code>## Loading required package: ncdfFlow</code></pre>
+<pre><code>## Loading required package: RcppArmadillo</code></pre>
+<pre><code>## Loading required package: BH</code></pre>
+<pre class="r"><code>Activation_gatingTemplate &lt;- gatingTemplate(DataPackageR::project_extdata_path(&#39;Activation-gatingTemplate.csv&#39;))</code></pre>
 <pre><code>## Adding population:nonDebris</code></pre>
 <pre><code>## Adding population:Cells</code></pre>
 <pre><code>## Adding population:Single Cells</code></pre>
@@ -413,6 +407,23 @@ $(document).ready(function () {
 
 
 </script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
+</script>
+
+<!-- code folding -->
+
 
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>
