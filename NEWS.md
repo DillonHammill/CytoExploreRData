@@ -1,3 +1,9 @@
+DataVersion: 0.1.56
+=======================
+* Changed: Activation
+* Changed: Compensation
+Remove old CytoRSuiteData references and update to new Activation gatingTemplate.
+
 DataVersion: 0.1.55
 =======================
 Update spill slots of Activation and Compensation gatingTemplate.
