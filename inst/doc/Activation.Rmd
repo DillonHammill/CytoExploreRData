@@ -1,44 +1,47 @@
 ---
-title: Process Activation fcs files into flowSet.
+title: Process Activation fcs files into cytoset.
 author: Dillon Hammill
-date: January 18, 2019
+date: December 11, 2019
 output_format: html_document
 vignette: >
-  %\VignetteIndexEntry{Process Activation fcs files into flowSet.}
+  %\VignetteIndexEntry{Process Activation fcs files into cytoset.}
   %\VignetteEngine{knitr::rmarkdown}
   \usepackage[utf8]{inputenc}
 ---
 
 ```{r}
 library(DataPackageR)
-library(CytoExploreR)
+library(flowWorkspace)
 library(gtools)
-files <- mixedsort(list.files(path = DataPackageR::project_extdata_path('Activation'),
-                              full.names = TRUE))
-Activation <- read.flowSet(files = files)
+files <- mixedsort(list.files(system.file("extdata/Activation", package = "CytoExploreRData"), full.names = TRUE))
+Activation <- load_cytoset_from_fcs(files)
 
 # Markers
-chnls <- c("Alexa Fluor 405-A", 
-           "Alexa Fluor 430-A", 
-           "APC-Cy7-A", "PE-A", 
-           "Alexa Fluor 488-A", 
-           "Alexa Fluor 700-A", 
-           "Alexa Fluor 647-A", 
-           "7-AAD-A")
-markers <- c("Hoechst-405", 
-             "Hoechst-430", 
-             "CD11c", 
-             "Va2", 
-             "CD8", 
-             "CD4", 
-             "CD44", 
-             "CD69")
-names(markers) <- chnls
-markernames(Activation) <- markers
+#chnls <- c("Alexa Fluor 405-A", 
+#          "Alexa Fluor 430-A", 
+#          "APC-Cy7-A", "PE-A", 
+#          "Alexa Fluor 488-A", 
+#          "Alexa Fluor 700-A", 
+#          "Alexa Fluor 647-A", 
+#          "7-AAD-A")
+#markers <- c("Hoechst-405", 
+#            "Hoechst-430", 
+#            "CD11c", 
+#            "Va2", 
+#            "CD8", 
+#            "CD4", 
+#            "CD44", 
+#            "CD69")
+#names(markers) <- chnls
+#markernames(Activation) <- markers
 
 # Experimental Details
-pData(Activation)$OVAConc <- c(rep(c(0,0,0.005,0.005,0.05,0.05,0.5,0.5),4),0)
-pData(Activation)$Treatment <- c(rep("Stim-A", 8),rep("Stim-B",8),rep("Stim-C",8),rep("Stim-D",8),"NA")
-pData(Activation)$Treatment <- factor(pData(Activation)$Treatment, levels = c("Stim-A","Stim-B","Stim-C","Stim-D","NA"))
+#pData(Activation)$OVAConc <- c(rep(c(0,0,0.005,0.005,0.05,0.05,0.5,0.5),4),0)
+#pData(Activation)$Treatment <- c(rep("Stim-A", 8),rep("Stim-B",8),rep("Stim-C",8),rep("Stim-D",8),"NA")
+#pData(Activation)$Treatment <- factor(pData(Activation)$Treatment, levels = c("Stim-A","Stim-B","Stim-C","Stim-D","NA"))
+
+#Activation <- GatingSet(Activation)
+
+print(Activation)
 ```
 
