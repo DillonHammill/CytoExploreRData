@@ -8,8 +8,11 @@ output_format: html_document
 library(DataPackageR)
 library(flowWorkspace)
 library(gtools)
-files <- mixedsort(list.files(system.file("extdata/Activation", package = "CytoExploreRData"), full.names = TRUE))
-Activation <- load_cytoset_from_fcs(files)
+# files <- mixedsort(list.files(system.file("extdata/Activation", package = "CytoExploreRData"), full.names = TRUE))
+# Activation <- load_cytoset_from_fcs(files)
+
+# Save cytoset
+# save_cytoset(Activation, "Activation")
 
 # Markers
 #chnls <- c("Alexa Fluor 405-A", 
@@ -36,6 +39,5 @@ Activation <- load_cytoset_from_fcs(files)
 #pData(Activation)$Treatment <- factor(pData(Activation)$Treatment, levels = c("Stim-A","Stim-B","Stim-C","Stim-D","NA"))
 
 #Activation <- GatingSet(Activation)
-
-print(Activation)
+Activation <- load_cytoset("Activation")
 ```

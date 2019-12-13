@@ -1,3 +1,39 @@
+DataVersion: 0.1.70
+=======================
+* Added: Activation
+* Changed: Compensation
+test
+
+DataVersion: 0.1.69
+=======================
+* Deleted: Activation
+* Changed: Compensation
+test
+
+DataVersion: 0.1.68
+=======================
+* Changed: Activation
+* Changed: Compensation
+test
+
+DataVersion: 0.1.67
+=======================
+* Changed: Activation
+* Changed: Compensation
+test
+
+DataVersion: 0.1.66
+=======================
+* Changed: Activation
+* Changed: Compensation
+test
+
+DataVersion: 0.1.65
+=======================
+* Changed: Activation
+* Changed: Compensation
+test
+
 DataVersion: 0.1.64
 =======================
 * Changed: Activation

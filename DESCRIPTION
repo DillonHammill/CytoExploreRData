@@ -10,14 +10,15 @@ Description: Contains gatingTemplates, example fcs files and compensation contro
 License: GPL-2
 Encoding: UTF-8
 LazyData: true
-DataVersion: 0.1.64
+DataVersion: 0.1.70
 Roxygen: list(markdown = TRUE)
-Date: 2019-12-13
+Date: 2019-12-14
 Suggests: 
     knitr,
     rmarkdown,
     DataPackageR,
     CytoExploreR,
-    gtools
+    gtools,
+    flowWorkspace
 VignetteBuilder: knitr
 RoxygenNote: 7.0.2
