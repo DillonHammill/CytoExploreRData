@@ -1,3 +1,89 @@
+DataVersion: 0.1.71
+=======================
+* Changed: Compensation
+Update Activation datasets.
+
+DataVersion: 0.1.70
+=======================
+* Added: Activation
+* Changed: Compensation
+test
+
+DataVersion: 0.1.69
+=======================
+* Deleted: Activation
+* Changed: Compensation
+test
+
+DataVersion: 0.1.68
+=======================
+* Changed: Activation
+* Changed: Compensation
+test
+
+DataVersion: 0.1.67
+=======================
+* Changed: Activation
+* Changed: Compensation
+test
+
+DataVersion: 0.1.66
+=======================
+* Changed: Activation
+* Changed: Compensation
+test
+
+DataVersion: 0.1.65
+=======================
+* Changed: Activation
+* Changed: Compensation
+test
+
+DataVersion: 0.1.64
+=======================
+* Changed: Activation
+* Changed: Compensation
+Comment out pData and GatingSet lines in Activation.
+
+DataVersion: 0.1.63
+=======================
+* Changed: Activation
+* Changed: Compensation
+Remove pData from Activation.
+
+DataVersion: 0.1.62
+=======================
+* Changed: Activation
+* Changed: Compensation
+Remove pData assignments.
+
+DataVersion: 0.1.61
+=======================
+* Changed: Compensation
+Update cytoset.
+
+DataVersion: 0.1.60
+=======================
+* Changed: Activation
+* Changed: Compensation
+Version 1.0.1
+
+DataVersion: 0.1.59
+=======================
+* Changed: Activation
+* Changed: Compensation
+Convert Activation to GatingSet.
+
+DataVersion: 0.1.58
+=======================
+* Changed: Activation
+* Changed: Compensation
+Activation updates.
+
+DataVersion: 0.1.57
+=======================
+Activation GatingSet.
+
 DataVersion: 0.1.56
 =======================
 * Changed: Activation
