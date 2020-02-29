@@ -1,3 +1,9 @@
+DataVersion: 0.1.72
+=======================
+* Changed: Activation
+* Changed: Compensation
+Remove excess files.
+
 DataVersion: 0.1.71
 =======================
 * Changed: Compensation
