@@ -1,3 +1,9 @@
+DataVersion: 0.1.73
+=======================
+* Changed: Activation
+* Changed: Compensation
+Update gatingTemplates to avoid dummy gates when gating empty populations.
+
 DataVersion: 0.1.72
 =======================
 * Changed: Activation
