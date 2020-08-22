@@ -1,3 +1,7 @@
+DataVersion: 0.1.74
+=======================
+Add marker assignments to Compensation.
+
 DataVersion: 0.1.73
 =======================
 * Changed: Activation

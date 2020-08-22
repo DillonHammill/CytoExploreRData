@@ -4,9 +4,11 @@
 \name{Compensation_gatingTemplate}
 \alias{Compensation_gatingTemplate}
 \title{CytoExploreR gatingTemplate used gate the Compensation data set.}
-\format{a \code{gatingTemplate} containing the following 3 gates: \itemize{
+\format{
+a \code{gatingTemplate} containing the following 3 gates: \itemize{
 \item{\strong{nonDebris}} \item{\strong{Cells}} \ item{\strong{Single
-Cells}}}}
+Cells}}}
+}
 \source{
 The compensation gatingTemplate was generated using CytoExploreR to
 gate the compensation controls prior to claculation of fluorescent

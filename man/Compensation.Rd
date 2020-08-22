@@ -4,7 +4,9 @@
 \name{Compensation}
 \alias{Compensation}
 \title{CytoExploreR Compensation Data Set.}
-\format{A \code{flowSet} containing the 7 compensation controls.}
+\format{
+A \code{flowSet} containing the 7 compensation controls.
+}
 \source{
 Compensation controls used for an in vitro OT-I/II T cell activation
 assay.
