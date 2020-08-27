@@ -1,3 +1,17 @@
+DataVersion: 0.1.77
+=======================
+Tidy imports.
+
+DataVersion: 0.1.76
+=======================
+Bump package version.
+
+DataVersion: 0.1.75
+=======================
+* Changed: Activation
+* Changed: Compensation
+Add Compensation and Activation GatingSets to extdata.
+
 DataVersion: 0.1.74
 =======================
 Add marker assignments to Compensation.

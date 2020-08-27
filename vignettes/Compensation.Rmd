@@ -1,7 +1,7 @@
 ---
 title: Process compensation controls fcs files into flowSet.
 author: Dillon Hammill
-date: August 22, 2020
+date: August 27, 2020
 output_format: html_document
 vignette: >
   %\VignetteIndexEntry{Process compensation controls fcs files into flowSet.}
@@ -10,10 +10,7 @@ vignette: >
 ---
 
 ```{r, message = FALSE}
-library(DataPackageR)
 library(CytoExploreR)
-library(flowCore)
-library(flowWorkspace)
 library(gtools)
 
 files <- mixedsort(list.files(system.file("extdata/Compensation", package = "CytoExploreRData"), full.names = TRUE))

@@ -1,6 +1,6 @@
 Package: CytoExploreRData
 Title: Flow Cytometry Data for CytoExploreR
-Version: 1.0.2
+Version: 1.0.3
 Authors@R: 
     person(given = "Dillon",
            family = "Hammill",
@@ -10,15 +10,14 @@ Description: Contains gatingTemplates, example fcs files and compensation contro
 License: GPL-2
 Encoding: UTF-8
 LazyData: true
-DataVersion: 0.1.74
+DataVersion: 0.1.77
 Roxygen: list(markdown = TRUE)
-Date: 2020-08-22
+Date: 2020-08-27
 Suggests: 
     knitr,
     rmarkdown,
     DataPackageR,
     CytoExploreR,
-    gtools,
-    flowWorkspace
+    gtools
 VignetteBuilder: knitr
 RoxygenNote: 7.1.1

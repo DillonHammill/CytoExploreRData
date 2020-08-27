@@ -1,7 +1,7 @@
 ---
 title: Process Activation gatingTemplate csv file to gatingTemplate object.
 author: Dillon Hammill
-date: January 18, 2019
+date: August 27, 2020
 output_format: html_document
 vignette: >
   %\VignetteIndexEntry{Process Activation gatingTemplate csv file to gatingTemplate object.}

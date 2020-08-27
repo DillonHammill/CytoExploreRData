@@ -1,7 +1,7 @@
 ---
 title: Process Activation fcs files into flowSet.
 author: Dillon Hammill
-date: February 12, 2020
+date: August 27, 2020
 output_format: html_document
 vignette: >
   %\VignetteIndexEntry{Process Activation fcs files into flowSet.}
@@ -10,9 +10,7 @@ vignette: >
 ---
 
 ```{r, message = FALSE}
-library(DataPackageR)
-library(flowCore)
-library(flowWorkspace)
+library(CytoExploreR)
 library(gtools)
 
 files <- mixedsort(list.files(system.file("extdata/Activation", package = "CytoExploreRData"), full.names = TRUE))

@@ -11,7 +11,7 @@
 
 <meta name="author" content="Dillon Hammill" />
 
-<meta name="date" content="2019-01-18" />
+<meta name="date" content="2020-08-27" />
 
 <title>Process Activation gatingTemplate csv file to gatingTemplate object.</title>
 
@@ -378,22 +378,14 @@ summary {
 
 <h1 class="title toc-ignore">Process Activation gatingTemplate csv file to gatingTemplate object.</h1>
 <h4 class="author">Dillon Hammill</h4>
-<h4 class="date">January 18, 2019</h4>
+<h4 class="date">August 27, 2020</h4>
 
 </div>
 
 
 <pre class="r"><code>library(DataPackageR)
-library(CytoExploreR)</code></pre>
-<pre><code>## Loading required package: flowCore</code></pre>
-<pre><code>## Loading required package: flowWorkspace</code></pre>
-<pre><code>## As part of improvements to flowWorkspace, some behavior of
-## GatingSet objects has changed. For details, please read the section
-## titled &quot;The cytoframe and cytoset classes&quot; in the package vignette:
-## 
-##   vignette(&quot;flowWorkspace-Introduction&quot;, &quot;flowWorkspace&quot;)</code></pre>
-<pre><code>## Loading required package: openCyto</code></pre>
-<pre class="r"><code>Activation_gatingTemplate &lt;- gatingTemplate(DataPackageR::project_extdata_path(&#39;Activation-gatingTemplate.csv&#39;))</code></pre>
+library(CytoExploreR)
+Activation_gatingTemplate &lt;- gatingTemplate(DataPackageR::project_extdata_path(&#39;Activation-gatingTemplate.csv&#39;))</code></pre>
 <pre><code>## Adding population:Cells</code></pre>
 <pre><code>## Adding population:Single Cells</code></pre>
 <pre><code>## Adding population:Dead Cells</code></pre>

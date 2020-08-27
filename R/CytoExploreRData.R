@@ -17,7 +17,6 @@ NULL
 
 
 
-
 #' CytoExploreR gatingTemplate used to gate the Activation data set.
 #' @name Activation_gatingTemplate
 #' @docType data
@@ -34,7 +33,6 @@ NULL
 #' @seealso \link{Activation}
 #' @author Dillon Hammill (Dillon.Hammill@anu.edu.au)
 NULL
-
 
 
 
@@ -60,7 +58,6 @@ NULL
 #' @seealso \link{Activation_gatingTemplate}
 #' @author Dillon Hammill (Dillon.Hammill@anu.edu.au)
 NULL
-
 
 
 
@@ -97,7 +94,6 @@ NULL
 #' @seealso \link{Activation_gatingTemplate}
 #' @author Dillon Hammill (Dillon.Hammill@anu.edu.au)
 NULL
-
 
 
 

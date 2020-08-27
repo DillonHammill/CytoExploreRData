@@ -2582,3 +2582,121 @@ TRACE [2020-08-22 10:16:12] Done
 TRACE [2020-08-22 10:16:12] DataPackageR succeeded
 TRACE [2020-08-22 10:16:16] Building documentation
 TRACE [2020-08-22 10:16:21] Building package
+TRACE [2020-08-27 09:37:06] Logging to C:/Users/u5351933/Documents/CytoExploreRData/inst/extdata/Logfiles/processing.log
+TRACE [2020-08-27 09:37:06] Processing data
+TRACE [2020-08-27 09:37:06] Reading yaml configuration
+TRACE [2020-08-27 09:37:06] Found C:/Users/u5351933/Documents/CytoExploreRData/data-raw/Activation-gatingTemplate.Rmd
+TRACE [2020-08-27 09:37:06] Found C:/Users/u5351933/Documents/CytoExploreRData/data-raw/Compensation.Rmd
+TRACE [2020-08-27 09:37:06] Found C:/Users/u5351933/Documents/CytoExploreRData/data-raw/Activation.Rmd
+TRACE [2020-08-27 09:37:06] Found C:/Users/u5351933/Documents/CytoExploreRData/data-raw/Compensation-gatingTemplate.Rmd
+TRACE [2020-08-27 09:37:06] Processing 1 of 4: C:/Users/u5351933/Documents/CytoExploreRData/data-raw/Activation-gatingTemplate.Rmd
+
+TRACE [2020-08-27 09:37:12] 1 data set(s) created by Activation-gatingTemplate.Rmd
+TRACE [2020-08-27 09:37:12] Processing 2 of 4: C:/Users/u5351933/Documents/CytoExploreRData/data-raw/Compensation.Rmd
+
+TRACE [2020-08-27 09:37:16] 1 data set(s) created by Compensation.Rmd
+TRACE [2020-08-27 09:37:22] Processing 3 of 4: C:/Users/u5351933/Documents/CytoExploreRData/data-raw/Activation.Rmd
+
+TRACE [2020-08-27 09:37:28] 1 data set(s) created by Activation.Rmd
+TRACE [2020-08-27 09:37:53] Processing 4 of 4: C:/Users/u5351933/Documents/CytoExploreRData/data-raw/Compensation-gatingTemplate.Rmd
+
+TRACE [2020-08-27 09:37:56] 1 data set(s) created by Compensation-gatingTemplate.Rmd
+TRACE [2020-08-27 09:37:59] NEWS.md file found, updating!
+WARN [2020-08-27 09:38:00] Activation_gatingTemplate has changed.
+WARN [2020-08-27 09:38:00] Compensation_gatingTemplate has changed.
+WARN [2020-08-27 09:38:00] Activation_gatingTemplate has changed.
+WARN [2020-08-27 09:38:00] Compensation_gatingTemplate has changed.
+WARN [2020-08-27 09:38:00] Activation_gatingTemplate has changed.
+WARN [2020-08-27 09:38:00] Compensation_gatingTemplate has changed.
+TRACE [2020-08-27 09:38:00] NEWS.md file found, updating!
+TRACE [2020-08-27 09:38:25] NEWS.md file found, updating!
+TRACE [2020-08-27 09:38:25] Data has been updated and DataVersion string incremented automatically to 0.1.75
+TRACE [2020-08-27 09:38:25] Saving to data
+TRACE [2020-08-27 09:38:59] Copied documentation to C:/Users/u5351933/Documents/CytoExploreRData/R/CytoExploreRData.R
+TRACE [2020-08-27 09:38:59] Done
+TRACE [2020-08-27 09:38:59] DataPackageR succeeded
+TRACE [2020-08-27 09:38:59] Building documentation
+TRACE [2020-08-27 09:39:06] Building package
+TRACE [2020-08-27 09:40:15] Logging to C:/Users/u5351933/Documents/CytoExploreRData/inst/extdata/Logfiles/processing.log
+TRACE [2020-08-27 09:40:15] Processing data
+TRACE [2020-08-27 09:40:15] Reading yaml configuration
+TRACE [2020-08-27 09:40:15] Found C:/Users/u5351933/Documents/CytoExploreRData/data-raw/Activation-gatingTemplate.Rmd
+TRACE [2020-08-27 09:40:15] Found C:/Users/u5351933/Documents/CytoExploreRData/data-raw/Compensation.Rmd
+TRACE [2020-08-27 09:40:15] Found C:/Users/u5351933/Documents/CytoExploreRData/data-raw/Activation.Rmd
+TRACE [2020-08-27 09:40:15] Found C:/Users/u5351933/Documents/CytoExploreRData/data-raw/Compensation-gatingTemplate.Rmd
+TRACE [2020-08-27 09:40:15] Processing 1 of 4: C:/Users/u5351933/Documents/CytoExploreRData/data-raw/Activation-gatingTemplate.Rmd
+
+TRACE [2020-08-27 09:40:18] 1 data set(s) created by Activation-gatingTemplate.Rmd
+TRACE [2020-08-27 09:40:18] Processing 2 of 4: C:/Users/u5351933/Documents/CytoExploreRData/data-raw/Compensation.Rmd
+
+TRACE [2020-08-27 09:40:22] 1 data set(s) created by Compensation.Rmd
+TRACE [2020-08-27 09:40:28] Processing 3 of 4: C:/Users/u5351933/Documents/CytoExploreRData/data-raw/Activation.Rmd
+
+TRACE [2020-08-27 09:40:34] 1 data set(s) created by Activation.Rmd
+TRACE [2020-08-27 09:40:59] Processing 4 of 4: C:/Users/u5351933/Documents/CytoExploreRData/data-raw/Compensation-gatingTemplate.Rmd
+
+TRACE [2020-08-27 09:41:01] 1 data set(s) created by Compensation-gatingTemplate.Rmd
+TRACE [2020-08-27 09:41:06] NEWS.md file found, updating!
+WARN [2020-08-27 09:41:06] Activation has changed.
+WARN [2020-08-27 09:41:06] Activation_gatingTemplate has changed.
+WARN [2020-08-27 09:41:06] Compensation has changed.
+WARN [2020-08-27 09:41:06] Compensation_gatingTemplate has changed.
+WARN [2020-08-27 09:41:06] Activation has changed.
+WARN [2020-08-27 09:41:06] Activation_gatingTemplate has changed.
+WARN [2020-08-27 09:41:06] Compensation has changed.
+WARN [2020-08-27 09:41:06] Compensation_gatingTemplate has changed.
+WARN [2020-08-27 09:41:06] Activation has changed.
+WARN [2020-08-27 09:41:06] Activation_gatingTemplate has changed.
+WARN [2020-08-27 09:41:06] Compensation has changed.
+WARN [2020-08-27 09:41:06] Compensation_gatingTemplate has changed.
+TRACE [2020-08-27 09:41:06] NEWS.md file found, updating!
+TRACE [2020-08-27 09:41:12] NEWS.md file found, updating!
+TRACE [2020-08-27 09:41:12] Data has been updated and DataVersion string incremented automatically to 0.1.76
+TRACE [2020-08-27 09:41:12] Saving to data
+TRACE [2020-08-27 09:41:44] Copied documentation to C:/Users/u5351933/Documents/CytoExploreRData/R/CytoExploreRData.R
+TRACE [2020-08-27 09:41:44] Done
+TRACE [2020-08-27 09:41:44] DataPackageR succeeded
+TRACE [2020-08-27 09:41:44] Building documentation
+TRACE [2020-08-27 09:41:49] Building package
+TRACE [2020-08-27 10:32:16] Logging to C:/Users/u5351933/Documents/CytoExploreRData/inst/extdata/Logfiles/processing.log
+TRACE [2020-08-27 10:32:16] Processing data
+TRACE [2020-08-27 10:32:16] Reading yaml configuration
+TRACE [2020-08-27 10:32:16] Found C:/Users/u5351933/Documents/CytoExploreRData/data-raw/Activation-gatingTemplate.Rmd
+TRACE [2020-08-27 10:32:16] Found C:/Users/u5351933/Documents/CytoExploreRData/data-raw/Compensation.Rmd
+TRACE [2020-08-27 10:32:16] Found C:/Users/u5351933/Documents/CytoExploreRData/data-raw/Activation.Rmd
+TRACE [2020-08-27 10:32:16] Found C:/Users/u5351933/Documents/CytoExploreRData/data-raw/Compensation-gatingTemplate.Rmd
+TRACE [2020-08-27 10:32:16] Processing 1 of 4: C:/Users/u5351933/Documents/CytoExploreRData/data-raw/Activation-gatingTemplate.Rmd
+
+TRACE [2020-08-27 10:32:27] 1 data set(s) created by Activation-gatingTemplate.Rmd
+TRACE [2020-08-27 10:32:27] Processing 2 of 4: C:/Users/u5351933/Documents/CytoExploreRData/data-raw/Compensation.Rmd
+
+TRACE [2020-08-27 10:32:32] 1 data set(s) created by Compensation.Rmd
+TRACE [2020-08-27 10:32:41] Processing 3 of 4: C:/Users/u5351933/Documents/CytoExploreRData/data-raw/Activation.Rmd
+
+TRACE [2020-08-27 10:32:49] 1 data set(s) created by Activation.Rmd
+TRACE [2020-08-27 10:33:16] Processing 4 of 4: C:/Users/u5351933/Documents/CytoExploreRData/data-raw/Compensation-gatingTemplate.Rmd
+
+TRACE [2020-08-27 10:33:19] 1 data set(s) created by Compensation-gatingTemplate.Rmd
+TRACE [2020-08-27 10:33:23] NEWS.md file found, updating!
+WARN [2020-08-27 10:33:23] Activation has changed.
+WARN [2020-08-27 10:33:23] Activation_gatingTemplate has changed.
+WARN [2020-08-27 10:33:23] Compensation has changed.
+WARN [2020-08-27 10:33:23] Compensation_gatingTemplate has changed.
+WARN [2020-08-27 10:33:23] Activation has changed.
+WARN [2020-08-27 10:33:23] Activation_gatingTemplate has changed.
+WARN [2020-08-27 10:33:23] Compensation has changed.
+WARN [2020-08-27 10:33:23] Compensation_gatingTemplate has changed.
+WARN [2020-08-27 10:33:23] Activation has changed.
+WARN [2020-08-27 10:33:23] Activation_gatingTemplate has changed.
+WARN [2020-08-27 10:33:24] Compensation has changed.
+WARN [2020-08-27 10:33:24] Compensation_gatingTemplate has changed.
+TRACE [2020-08-27 10:33:24] NEWS.md file found, updating!
+TRACE [2020-08-27 10:33:33] NEWS.md file found, updating!
+TRACE [2020-08-27 10:33:33] Data has been updated and DataVersion string incremented automatically to 0.1.77
+TRACE [2020-08-27 10:33:33] Saving to data
+TRACE [2020-08-27 10:34:14] Copied documentation to C:/Users/u5351933/Documents/CytoExploreRData/R/CytoExploreRData.R
+TRACE [2020-08-27 10:34:17] Done
+TRACE [2020-08-27 10:34:17] DataPackageR succeeded
+TRACE [2020-08-27 10:34:17] Building documentation
+TRACE [2020-08-27 10:34:22] Building package
+TRACE [2020-08-27 10:35:56] Rebuilding data package documentation.
