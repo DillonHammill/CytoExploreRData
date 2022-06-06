@@ -2700,3 +2700,91 @@ TRACE [2020-08-27 10:34:17] DataPackageR succeeded
 TRACE [2020-08-27 10:34:17] Building documentation
 TRACE [2020-08-27 10:34:22] Building package
 TRACE [2020-08-27 10:35:56] Rebuilding data package documentation.
+TRACE [2022-06-06 19:10:11] Logging to E:/Documents/R-Projects/CytoExploreRData/inst/extdata/Logfiles/processing.log
+TRACE [2022-06-06 19:10:11] Processing data
+TRACE [2022-06-06 19:10:11] Reading yaml configuration
+TRACE [2022-06-06 19:10:11] Found E:/Documents/R-Projects/CytoExploreRData/data-raw/Activation-gatingTemplate.Rmd
+TRACE [2022-06-06 19:10:11] Found E:/Documents/R-Projects/CytoExploreRData/data-raw/Compensation.Rmd
+TRACE [2022-06-06 19:10:11] Found E:/Documents/R-Projects/CytoExploreRData/data-raw/Activation.Rmd
+TRACE [2022-06-06 19:10:11] Found E:/Documents/R-Projects/CytoExploreRData/data-raw/Compensation-gatingTemplate.Rmd
+TRACE [2022-06-06 19:10:11] Processing 1 of 4: E:/Documents/R-Projects/CytoExploreRData/data-raw/Activation-gatingTemplate.Rmd
+
+TRACE [2022-06-06 19:10:20] 1 data set(s) created by Activation-gatingTemplate.Rmd
+TRACE [2022-06-06 19:10:20] Processing 2 of 4: E:/Documents/R-Projects/CytoExploreRData/data-raw/Compensation.Rmd
+
+TRACE [2022-06-06 19:10:22] 1 data set(s) created by Compensation.Rmd
+TRACE [2022-06-06 19:10:22] Processing 3 of 4: E:/Documents/R-Projects/CytoExploreRData/data-raw/Activation.Rmd
+
+TRACE [2022-06-06 19:10:31] 1 data set(s) created by Activation.Rmd
+TRACE [2022-06-06 19:10:31] Processing 4 of 4: E:/Documents/R-Projects/CytoExploreRData/data-raw/Compensation-gatingTemplate.Rmd
+
+TRACE [2022-06-06 19:10:31] 1 data set(s) created by Compensation-gatingTemplate.Rmd
+TRACE [2022-06-06 19:10:31] NEWS.md file found, updating!
+WARN [2022-06-06 19:10:31] DataVersion has changed.
+WARN [2022-06-06 19:10:31] Activation has changed.
+WARN [2022-06-06 19:10:31] Activation_gatingTemplate has changed.
+WARN [2022-06-06 19:10:31] Compensation has changed.
+WARN [2022-06-06 19:10:31] Compensation_gatingTemplate has changed.
+WARN [2022-06-06 19:10:31] DataVersion has changed.
+WARN [2022-06-06 19:10:31] Activation has changed.
+WARN [2022-06-06 19:10:31] Activation_gatingTemplate has changed.
+WARN [2022-06-06 19:10:31] Compensation has changed.
+WARN [2022-06-06 19:10:31] Compensation_gatingTemplate has changed.
+WARN [2022-06-06 19:10:31] DataVersion has changed.
+WARN [2022-06-06 19:10:31] Activation has changed.
+WARN [2022-06-06 19:10:31] Activation_gatingTemplate has changed.
+WARN [2022-06-06 19:10:31] Compensation has changed.
+WARN [2022-06-06 19:10:31] Compensation_gatingTemplate has changed.
+TRACE [2022-06-06 19:10:31] NEWS.md file found, updating!
+TRACE [2022-06-06 19:10:53] NEWS.md file found, updating!
+TRACE [2022-06-06 19:10:53] Data has been updated and DataVersion string incremented automatically to 0.1.78
+TRACE [2022-06-06 19:10:53] Saving to data
+TRACE [2022-06-06 19:10:53] Copied documentation to E:/Documents/R-Projects/CytoExploreRData/R/CytoExploreRData.R
+TRACE [2022-06-06 19:10:53] Done
+TRACE [2022-06-06 19:10:53] DataPackageR succeeded
+TRACE [2022-06-06 19:10:53] Building documentation
+TRACE [2022-06-06 19:10:54] Building package
+TRACE [2022-06-06 19:15:01] Logging to E:/Documents/R-Projects/CytoExploreRData/inst/extdata/Logfiles/processing.log
+TRACE [2022-06-06 19:15:01] Processing data
+TRACE [2022-06-06 19:15:01] Reading yaml configuration
+TRACE [2022-06-06 19:15:01] Found E:/Documents/R-Projects/CytoExploreRData/data-raw/Activation-gatingTemplate.Rmd
+TRACE [2022-06-06 19:15:01] Found E:/Documents/R-Projects/CytoExploreRData/data-raw/Compensation.Rmd
+TRACE [2022-06-06 19:15:01] Found E:/Documents/R-Projects/CytoExploreRData/data-raw/Activation.Rmd
+TRACE [2022-06-06 19:15:01] Found E:/Documents/R-Projects/CytoExploreRData/data-raw/Compensation-gatingTemplate.Rmd
+TRACE [2022-06-06 19:15:01] Processing 1 of 4: E:/Documents/R-Projects/CytoExploreRData/data-raw/Activation-gatingTemplate.Rmd
+
+TRACE [2022-06-06 19:15:02] 1 data set(s) created by Activation-gatingTemplate.Rmd
+TRACE [2022-06-06 19:15:02] Processing 2 of 4: E:/Documents/R-Projects/CytoExploreRData/data-raw/Compensation.Rmd
+
+TRACE [2022-06-06 19:15:04] 1 data set(s) created by Compensation.Rmd
+TRACE [2022-06-06 19:15:07] Processing 3 of 4: E:/Documents/R-Projects/CytoExploreRData/data-raw/Activation.Rmd
+
+TRACE [2022-06-06 19:15:16] 1 data set(s) created by Activation.Rmd
+TRACE [2022-06-06 19:15:31] Processing 4 of 4: E:/Documents/R-Projects/CytoExploreRData/data-raw/Compensation-gatingTemplate.Rmd
+
+TRACE [2022-06-06 19:15:32] 1 data set(s) created by Compensation-gatingTemplate.Rmd
+TRACE [2022-06-06 19:15:33] NEWS.md file found, updating!
+WARN [2022-06-06 19:15:33] DataVersion has changed.
+WARN [2022-06-06 19:15:33] Activation has changed.
+WARN [2022-06-06 19:15:33] Activation_gatingTemplate has changed.
+WARN [2022-06-06 19:15:33] Compensation has changed.
+WARN [2022-06-06 19:15:33] Compensation_gatingTemplate has changed.
+WARN [2022-06-06 19:15:33] DataVersion has changed.
+WARN [2022-06-06 19:15:33] Activation has changed.
+WARN [2022-06-06 19:15:33] Activation_gatingTemplate has changed.
+WARN [2022-06-06 19:15:33] Compensation has changed.
+WARN [2022-06-06 19:15:34] Compensation_gatingTemplate has changed.
+WARN [2022-06-06 19:15:34] DataVersion has changed.
+WARN [2022-06-06 19:15:34] Activation has changed.
+WARN [2022-06-06 19:15:34] Activation_gatingTemplate has changed.
+WARN [2022-06-06 19:15:34] Compensation has changed.
+WARN [2022-06-06 19:15:34] Compensation_gatingTemplate has changed.
+TRACE [2022-06-06 19:15:34] NEWS.md file found, updating!
+TRACE [2022-06-06 19:15:47] NEWS.md file found, updating!
+TRACE [2022-06-06 19:15:47] Data has been updated and DataVersion string incremented automatically to 0.1.79
+TRACE [2022-06-06 19:15:47] Saving to data
+TRACE [2022-06-06 19:16:05] Copied documentation to E:/Documents/R-Projects/CytoExploreRData/R/CytoExploreRData.R
+TRACE [2022-06-06 19:16:05] Done
+TRACE [2022-06-06 19:16:05] DataPackageR succeeded
+TRACE [2022-06-06 19:16:05] Building documentation
+TRACE [2022-06-06 19:16:07] Building package

@@ -1,0 +1,58 @@
+---
+title: Process compensation controls fcs files into flowSet.
+author: Dillon Hammill
+date: June 6, 2022
+output_format: html_document
+vignette: >
+  %\VignetteIndexEntry{Process compensation controls fcs files into flowSet.}
+  %\VignetteEngine{knitr::rmarkdown}
+  \usepackage[utf8]{inputenc}
+---
+
+```{r, message = FALSE}
+library(CytoExploreR)
+library(gtools)
+
+# FILES
+files <- mixedsort(
+  list.files(
+    system.file(
+      "extdata/Compensation", 
+      package = "CytoExploreRData"
+    ), 
+    full.names = TRUE
+  )
+)
+
+# FLOWSET
+Compensation <- read.flowSet(files)
+
+# MARKERS
+chnls <- c("Alexa Fluor 405-A",
+          "Alexa Fluor 430-A",
+          "APC-Cy7-A", "PE-A",
+          "Alexa Fluor 488-A",
+          "Alexa Fluor 700-A",
+          "Alexa Fluor 647-A",
+          "7-AAD-A")
+markers <- c("Hoechst-405",
+            "Hoechst-430",
+            "CD11c",
+            "Va2",
+            "CD8",
+            "CD4",
+            "CD44",
+            "CD69")
+names(markers) <- chnls
+markernames(Compensation) <- markers
+
+# EVENT BARCODES
+Compensation <- cyto_barcode(
+  Compensation,
+  "events"
+)
+
+# FLOWSET
+Compensation <- flowWorkspace::cytoset_to_flowSet(Compensation)
+```
+

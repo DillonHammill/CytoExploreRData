@@ -1,0 +1,17 @@
+---
+title: Process Activation gatingTemplate csv file to gatingTemplate object.
+author: Dillon Hammill
+date: August 27, 2020
+output_format: html_document
+vignette: >
+  %\VignetteIndexEntry{Process Activation gatingTemplate csv file to gatingTemplate object.}
+  %\VignetteEngine{knitr::rmarkdown}
+  \usepackage[utf8]{inputenc}
+---
+
+```{r}
+library(DataPackageR)
+library(CytoExploreR)
+Activation_gatingTemplate <- gatingTemplate(DataPackageR::project_extdata_path('Activation-gatingTemplate.csv'))
+```
+
