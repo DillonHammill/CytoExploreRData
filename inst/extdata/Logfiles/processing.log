@@ -2788,3 +2788,91 @@ TRACE [2022-06-06 19:16:05] Done
 TRACE [2022-06-06 19:16:05] DataPackageR succeeded
 TRACE [2022-06-06 19:16:05] Building documentation
 TRACE [2022-06-06 19:16:07] Building package
+TRACE [2022-07-05 17:14:24] Logging to E:/Documents/R-Projects/CytoExploreRData/inst/extdata/Logfiles/processing.log
+TRACE [2022-07-05 17:14:24] Processing data
+TRACE [2022-07-05 17:14:24] Reading yaml configuration
+TRACE [2022-07-05 17:14:24] Found E:/Documents/R-Projects/CytoExploreRData/data-raw/Activation-gatingTemplate.Rmd
+TRACE [2022-07-05 17:14:24] Found E:/Documents/R-Projects/CytoExploreRData/data-raw/Compensation.Rmd
+TRACE [2022-07-05 17:14:24] Found E:/Documents/R-Projects/CytoExploreRData/data-raw/Activation.Rmd
+TRACE [2022-07-05 17:14:24] Found E:/Documents/R-Projects/CytoExploreRData/data-raw/Compensation-gatingTemplate.Rmd
+TRACE [2022-07-05 17:14:24] Processing 1 of 4: E:/Documents/R-Projects/CytoExploreRData/data-raw/Activation-gatingTemplate.Rmd
+
+TRACE [2022-07-05 17:14:29] 1 data set(s) created by Activation-gatingTemplate.Rmd
+TRACE [2022-07-05 17:14:29] Processing 2 of 4: E:/Documents/R-Projects/CytoExploreRData/data-raw/Compensation.Rmd
+
+TRACE [2022-07-05 17:14:32] 1 data set(s) created by Compensation.Rmd
+TRACE [2022-07-05 17:14:35] Processing 3 of 4: E:/Documents/R-Projects/CytoExploreRData/data-raw/Activation.Rmd
+
+TRACE [2022-07-05 17:14:42] 1 data set(s) created by Activation.Rmd
+TRACE [2022-07-05 17:14:57] Processing 4 of 4: E:/Documents/R-Projects/CytoExploreRData/data-raw/Compensation-gatingTemplate.Rmd
+
+TRACE [2022-07-05 17:14:57] 1 data set(s) created by Compensation-gatingTemplate.Rmd
+TRACE [2022-07-05 17:14:58] NEWS.md file found, updating!
+WARN [2022-07-05 17:14:58] DataVersion has changed.
+WARN [2022-07-05 17:14:58] Activation has changed.
+WARN [2022-07-05 17:14:58] Activation_gatingTemplate has changed.
+WARN [2022-07-05 17:14:58] Compensation has changed.
+WARN [2022-07-05 17:14:59] Compensation_gatingTemplate has changed.
+WARN [2022-07-05 17:14:59] DataVersion has changed.
+WARN [2022-07-05 17:14:59] Activation has changed.
+WARN [2022-07-05 17:14:59] Activation_gatingTemplate has changed.
+WARN [2022-07-05 17:14:59] Compensation has changed.
+WARN [2022-07-05 17:14:59] Compensation_gatingTemplate has changed.
+WARN [2022-07-05 17:14:59] DataVersion has changed.
+WARN [2022-07-05 17:14:59] Activation has changed.
+WARN [2022-07-05 17:14:59] Activation_gatingTemplate has changed.
+WARN [2022-07-05 17:14:59] Compensation has changed.
+WARN [2022-07-05 17:14:59] Compensation_gatingTemplate has changed.
+TRACE [2022-07-05 17:14:59] NEWS.md file found, updating!
+TRACE [2022-07-05 17:15:17] NEWS.md file found, updating!
+TRACE [2022-07-05 17:15:17] Data has been updated and DataVersion string incremented automatically to 0.1.80
+TRACE [2022-07-05 17:15:17] Saving to data
+TRACE [2022-07-05 17:15:35] Copied documentation to E:/Documents/R-Projects/CytoExploreRData/R/CytoExploreRData.R
+TRACE [2022-07-05 17:15:36] Done
+TRACE [2022-07-05 17:15:36] DataPackageR succeeded
+TRACE [2022-07-05 17:15:36] Building documentation
+TRACE [2022-07-05 17:15:38] Building package
+TRACE [2022-07-05 17:22:11] Logging to E:/Documents/R-Projects/CytoExploreRData/inst/extdata/Logfiles/processing.log
+TRACE [2022-07-05 17:22:11] Processing data
+TRACE [2022-07-05 17:22:11] Reading yaml configuration
+TRACE [2022-07-05 17:22:11] Found E:/Documents/R-Projects/CytoExploreRData/data-raw/Activation-gatingTemplate.Rmd
+TRACE [2022-07-05 17:22:11] Found E:/Documents/R-Projects/CytoExploreRData/data-raw/Compensation.Rmd
+TRACE [2022-07-05 17:22:11] Found E:/Documents/R-Projects/CytoExploreRData/data-raw/Activation.Rmd
+TRACE [2022-07-05 17:22:11] Found E:/Documents/R-Projects/CytoExploreRData/data-raw/Compensation-gatingTemplate.Rmd
+TRACE [2022-07-05 17:22:11] Processing 1 of 4: E:/Documents/R-Projects/CytoExploreRData/data-raw/Activation-gatingTemplate.Rmd
+
+TRACE [2022-07-05 17:22:13] 1 data set(s) created by Activation-gatingTemplate.Rmd
+TRACE [2022-07-05 17:22:13] Processing 2 of 4: E:/Documents/R-Projects/CytoExploreRData/data-raw/Compensation.Rmd
+
+TRACE [2022-07-05 17:22:15] 1 data set(s) created by Compensation.Rmd
+TRACE [2022-07-05 17:22:20] Processing 3 of 4: E:/Documents/R-Projects/CytoExploreRData/data-raw/Activation.Rmd
+
+TRACE [2022-07-05 17:22:26] 1 data set(s) created by Activation.Rmd
+TRACE [2022-07-05 17:22:41] Processing 4 of 4: E:/Documents/R-Projects/CytoExploreRData/data-raw/Compensation-gatingTemplate.Rmd
+
+TRACE [2022-07-05 17:22:41] 1 data set(s) created by Compensation-gatingTemplate.Rmd
+TRACE [2022-07-05 17:22:43] NEWS.md file found, updating!
+WARN [2022-07-05 17:22:43] DataVersion has changed.
+WARN [2022-07-05 17:22:43] Activation has changed.
+WARN [2022-07-05 17:22:43] Activation_gatingTemplate has changed.
+WARN [2022-07-05 17:22:43] Compensation has changed.
+WARN [2022-07-05 17:22:43] Compensation_gatingTemplate has changed.
+WARN [2022-07-05 17:22:43] DataVersion has changed.
+WARN [2022-07-05 17:22:43] Activation has changed.
+WARN [2022-07-05 17:22:43] Activation_gatingTemplate has changed.
+WARN [2022-07-05 17:22:43] Compensation has changed.
+WARN [2022-07-05 17:22:43] Compensation_gatingTemplate has changed.
+WARN [2022-07-05 17:22:43] DataVersion has changed.
+WARN [2022-07-05 17:22:43] Activation has changed.
+WARN [2022-07-05 17:22:43] Activation_gatingTemplate has changed.
+WARN [2022-07-05 17:22:43] Compensation has changed.
+WARN [2022-07-05 17:22:43] Compensation_gatingTemplate has changed.
+TRACE [2022-07-05 17:22:43] NEWS.md file found, updating!
+TRACE [2022-07-05 17:22:45] NEWS.md file found, updating!
+TRACE [2022-07-05 17:22:45] Data has been updated and DataVersion string incremented automatically to 0.1.81
+TRACE [2022-07-05 17:22:45] Saving to data
+TRACE [2022-07-05 17:23:05] Copied documentation to E:/Documents/R-Projects/CytoExploreRData/R/CytoExploreRData.R
+TRACE [2022-07-05 17:23:05] Done
+TRACE [2022-07-05 17:23:05] DataPackageR succeeded
+TRACE [2022-07-05 17:23:05] Building documentation
+TRACE [2022-07-05 17:23:07] Building package

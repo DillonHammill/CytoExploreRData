@@ -10,9 +10,9 @@ Description: Contains gatingTemplates, example fcs files and compensation contro
 License: GPL-2
 Encoding: UTF-8
 LazyData: true
-DataVersion: 0.1.79
+DataVersion: 0.1.81
 Roxygen: list(markdown = TRUE)
-Date: 2022-06-06
+Date: 2022-07-05
 Suggests: 
     knitr,
     rmarkdown,
